@@ -124,12 +124,15 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Petitsioon"
+      icon: "fab fa-fw fa-envelope-square"
+      #url: https://www.change.org/p/tartu-linnapea-peatada-tartu-kesklinna-pargi-maharaiumist-selleks-et-s%C3%BCku-ehitada
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/groups/1056327784855045
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
