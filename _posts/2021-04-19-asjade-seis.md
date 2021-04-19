@@ -6,9 +6,9 @@ author_profile: false
 last_modified_at: 2021-04-19
 ---
 
-Veel ei hakata, aga pääsemisest on ka vara rääkida.
+Veel ei hakata, aga pääsemist ka [kuskilt ei paista](/faq).
 
-Oleme esitanud linnale küsimused parki ehitamise vastuoluliste plaanide teemal ja [ootame neile vastuseid](/kysimused-linnale). Petitsiooni üleandmist plaanime niipea, kui võimalik. Kõik on oodatud kaasa rääkima kultuurikeskusele parema koha otsimisel.
+Oleme esitanud linnale küsimused parki ehitamise vastuoluliste plaanide teemal ning [ootame neile vastuseid](/kysimused-linnale). Petitsiooni üleandmist plaanime niipea, kui võimalik. Kõik on oodatud kaasa rääkima kultuurikeskusele parema koha otsimisel.
 
 Aga mis on parem koht? Mistahes koht linnakeskuses, millega ei kaasne Keskparki veel ühe Kaubamaja suuruse hoone ehitamist.
 
