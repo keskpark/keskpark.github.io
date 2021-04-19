@@ -7,7 +7,7 @@ last_modified_at: 2021-04-08
 toc: true
 ---
 
-_Need küsimused esitasime linnale 8. aprillil toimunud kohtumisel linnapea Urmas Klaasi, abilinnapea Gea Kangilaski ja linnaarhitekt Tõnis Arjusega. Vastuseid palusime 20. aprilliks._
+_Need küsimused esitasime ja andsime linnale kirjalikult üle 8. aprillil toimunud kohtumisel linnapea Urmas Klaasi, abilinnapea Gea Kangilaski ja linnaarhitekt Tõnis Arjusega. Vastuseid palusime 20. aprilliks._
 
 ## Sissejuhatus
 
@@ -20,7 +20,6 @@ Ettepanekud olid esitanud ka keskkonnaorganisatsioonid nagu Eesti Roheline Liiku
 Linna üldsõnalised vastused Kesklinna pargi- ja haljasalade vähendamise põhjenduseks pole olnud piisavad ja lahvatanud vaidlused on tõestuseks, et kaasamine jäi otsuse tegemise ajal pealiskaudseks. Soovime aru saada, kuidas jõudis linn Kesklinna üldplaneeringu menetlemise käigus seisukohale, mis ei vasta pea 5000 inimese arusaamale Keskpargi tulevikust südalinnas.
 
 ## Küsimused
-
 
 Tahame saada selgeid vastuseid järgnevatele vastuseta küsimustele: 
 

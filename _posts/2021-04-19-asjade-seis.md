@@ -10,8 +10,6 @@ Veel ei hakata, aga pääsemisest on ka vara rääkida.
 
 Oleme esitanud linnale küsimused parki ehitamise vastuoluliste plaanide teemal ja [ootame neile vastuseid](/kysimused-linnale). Petitsiooni üleandmist plaanime niipea, kui võimalik. Kõik on oodatud kaasa rääkima kultuurikeskusele parema koha otsimisel.
 
-<!--more-->
-
 Aga mis on parem koht? Mistahes koht linnakeskuses, millega ei kaasne Keskparki veel ühe Kaubamaja suuruse hoone ehitamist.
 
-See on meie ühine seisukoht ja kui arvad samamoodi, siis tutvu meie algatusega ja anna oma panus, et säiliks heade mõtete linnale iseomane looduslähedane elukeskkond koos omavahel hästi seotud ja rohepause pakkuvate parkide ning haljasaladega.
+See on meie ühine seisukoht ja kui arvad samamoodi, siis tutvu meie algatusega ja [anna oma panus](https://www.facebook.com/groups/1056327784855045), et säiliks heade mõtete linnale iseomane looduslähedane elukeskkond koos omavahel hästi seotud ja rohepause pakkuvate parkide ning haljasaladega.
