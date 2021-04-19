@@ -1933,7 +1933,7 @@ et: &DEFAULT_et
   more_label                 : "Edasi"
   related_label              : "Vaata ka neid"
   follow_label               : "Jälgi:"
-  feed_label                 : "Voog"
+  feed_label                 : "Uudisvoog"
   powered_by                 : "Mootor on"
   website_label              : "Veebileht"
   email_label                : "Meil"
