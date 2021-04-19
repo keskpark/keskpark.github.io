@@ -7,7 +7,7 @@ last_modified_at: 2021-04-08
 toc: true
 ---
 
-_Need küsimused esitasime ja andsime linnale kirjalikult üle 8. aprillil toimunud kohtumisel linnapea Urmas Klaasi, abilinnapea Gea Kangilaski ja linnaarhitekt Tõnis Arjusega. Vastuseid palusime 20. aprilliks._
+_Need küsimused esitasime ja andsime linnale kirjalikult üle 8. aprillil toimunud kohtumisel linnapea Urmas Klaasi, abilinnapea Gea Kangilaski ja linnaarhitekt Tõnis Arjusega. Kuna kohapeal antud selgitused polnud piisavad, palusime vastuseid 20. aprilliks._
 
 ## Sissejuhatus
 
