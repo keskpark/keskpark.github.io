@@ -6,7 +6,7 @@ last_modified_at: 2021-04-20
 toc: true
 ---
 
-Siin on alustuseks meie korrigeerivad vastused küsimustele, mida küsib linn [oma kampaanialeheküljel](https://www.tartu.ee/et/sudalinna-kultuurikeskus#Korduma-kippuvad-k%C3%BCsimused-(KKK)). Lisame nende ümberlükete kõrvale aja jooksul ka vastuseid tõsistele küsimustele, mis on ilmselt meil kõigil ajal jooksul tekkinud ning mis ootavad päriselt sisukat vastust.
+Siin on alustuseks meie korrigeerivad vastused küsimustele, mida paneb linn kodanikele suhu [oma kampaanialehel](https://www.tartu.ee/et/sudalinna-kultuurikeskus#Korduma-kippuvad-k%C3%BCsimused-(KKK)). Lisame siia aja jooksul ka vastuseid tõsisematele küsimustele Keskpargi, kultuurikeskuse ja linnaplaneerimise teemal.
 
 ## "Kas linlaste arvamus ei loe?"
 
