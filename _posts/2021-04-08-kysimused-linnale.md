@@ -5,6 +5,7 @@ image: "/assets/images/panoraam.jpg"
 author_profile: false
 last_modified_at: 2021-04-08
 toc: true
+excerpt: "Andsime 8. aprillil toimunud kohtumisel linnale kirjalikult üle küsimused, millele pole seni suudetud anda adekvaatseid vastuseid. Aga ilma on siit väga keeruline kuskile edasi liikuda!"
 ---
 
 _Need küsimused esitasime ja andsime linnale kirjalikult üle 8. aprillil toimunud kohtumisel linnapea Urmas Klaasi, abilinnapea Gea Kangilaski ja linnaarhitekt Tõnis Arjusega. Kuna kohapeal antud selgitused polnud piisavad, palusime vastuseid 20. aprilliks._
@@ -75,6 +76,7 @@ Tahame saada selgeid vastuseid järgnevatele vastuseta küsimustele:
   * Kõigi nende variantide analüüs linna poolt on kesklinna üldplaneeringu seletuskirja, avaliku väljapaneku ettepanekute vastuste ja volikogu arutelude tasemel. Linn ei ole koondanud seda infot terviklikuks dokumendiks, sedastanud kultuurikeskuse asukohavalikule selgeid kriteeriume ega linnaplaneeringu põhimõtteid, pole toimunud ametlikku arhitektuurikonkurssi linnaplaneeringu mõttes sobiva lahenduse leidmiseks. Seega puudub projekti menetlemisel elementaarne läbipaistvus ja mõistetavus üldsuse jaoks. Kuna tegu on üleriiklikult olulise projektiga, siis ei saa eeldada projekti puhul vähemat kui selgelt sõnastatud dokumentatsiooni.
 
   * Ideaalis võiks niivõrd olulise projekti puhul eeldada uuringut linnaplaneerimise valdkonna ekspertide poolt või veelgi enam konkurssi parima lahenduse leidmiseks. Kui linn on valmis suhtuma loovalt Keskparki ja selle ümbrusse, siis tegelikult võiks olla abi loovusest kultuurikeskuse südalinna paigutamise eri variantide kaalumisel, sest Keskpargi hõivamine ristkülikuga selle Emajõe poolses küljes on pigem asutuste mehhaaniline nihutamine üle Raekoja platsi lähimale suurele hoonetest vabale pinnale. Kuna kogu projekti aluseks on rohelise linnaplaneerimise mõttes vastuoluline eesmärk kasutada ehitusaluse maana Keskparki, siis on halvasti põhjendatus ja dokumenteerimatus ka takistus projekti elluviimisel, nt linnaelanike protestide või roheorganisatsioonide algatatud kohtuvaidluste tõttu.
+
 
 ### Ⅳ. Missugune on plaanitava kultuuri-, konverentsi- ja kogukonnakeskuse juhtimismudel ja kasutuseeskiri kogukonnaliikmete jaoks, missugused on garantiid, et tegemist on avaliku ruumiga, mis on avatuselt võrreldav pargialaga?
 
