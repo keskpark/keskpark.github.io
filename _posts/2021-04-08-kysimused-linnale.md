@@ -82,7 +82,7 @@ Tahame saada selgeid vastuseid järgnevatele vastuseta küsimustele:
 
 2. Kuidas on kogukond plaanitud kaasata linnaelanikele lubatava kogukonnakeskuse juhtimisse? Kui tegu pole ainult raamatukogu või ainult kunstimuuseumiga, vaid kogukonnakeskusega, siis missugune on kogukonna osalus selle keskuse tegevuse kujundamisel ja käigushoidmisel? Kuidas jaotatakse vastutus raamatukogu, muuseumi ja kogukondade vahel ning tagatakse toimiv kogukondlik juhtimismudel?
 
-    Märt Põder Keskpargi päästmise toetusrühmast on algatanud Kesklinna seltsi loomise, mis võiks olla linnale partneriks kogukonna kaasamisel kultuurikeskuse projekti ettevalmistamisse kui ka selle hilisemal käigushoidmisel.
+    Märt Põder Keskpargi päästmise toetusrühmast on [algatanud Kesklinna seltsi loomise](https://www.facebook.com/groups/tartukesklinn/permalink/1171715466613967/), mis võiks olla linnale partneriks kogukonna kaasamisel kultuurikeskuse projekti ettevalmistamisse kui ka selle hilisemal käigushoidmisel.
     {: .notice--info}
 
 3. Kuidas garanteeritakse, et ehitatav hoone jääb linnaruumis avalikku kasutusse kogukonnakeskusena ka siis, kui nt digitaliseerimine muudab oluliselt avalike raamatukogude funktsioone, muutvad majanduslikud olud sunnivad ümber mõtestama muude plaanitud pindade kasutuseesmärke jmt?
