@@ -1927,7 +1927,7 @@ et: &DEFAULT_et
   meta_label                 :
   tags_label                 : "Sildid:"
   categories_label           : "Kategooriad:"
-  date_label                 : "Uuendatud:"
+  date_label                 : "Viimane muudatus:"
   comments_label             : "Kommenteeri"
   comments_title             : "Kommentaarid"
   more_label                 : "Edasi"
