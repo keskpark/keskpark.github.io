@@ -1923,7 +1923,7 @@ et: &DEFAULT_et
   ext_link_label             : "Ava link"
   less_than                  : "vähem kui"
   minute_read                : "minutit"
-  share_on_label             : "Jaga"
+  share_on_label             : "Kui pea ei jaga..."
   meta_label                 :
   tags_label                 : "Sildid:"
   categories_label           : "Kategooriad:"

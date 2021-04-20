@@ -1,0 +1,44 @@
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{% if page.last_modified_at %}
+  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong>
+  <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">
+      {{ page.last_modified_at | date: "%-d." }}
+      {% assign m = page.last_modified_at | date: "%-m" %}
+      {% case m %}
+              {% when  '1' %}jaanuar
+              {% when  '2' %}veebruar
+              {% when  '3' %}märts
+              {% when  '4' %}aprill
+              {% when  '5' %}mai
+              {% when  '6' %}juuni
+              {% when  '7' %}juuli
+              {% when  '8' %}august
+              {% when  '9' %}september
+              {% when '10' %}oktoober
+              {% when '11' %}november
+              {% when '12' %}detsember
+      {% endcase %}
+      {{ page.last_modified_at | date: "%Y" }}
+    </time></p>
+{% elsif page.date %}
+  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong>
+  <time datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%-d." }}
+      {% assign m = page.date | date: "%-m" %}
+      {% case m %}
+              {% when  '1' %}jaanuar
+              {% when  '2' %}veebruar
+              {% when  '3' %}märts
+              {% when  '4' %}aprill
+              {% when  '5' %}mai
+              {% when  '6' %}juuni
+              {% when  '7' %}juuli
+              {% when  '8' %}august
+              {% when  '9' %}september
+              {% when '10' %}oktoober
+              {% when '11' %}november
+              {% when '12' %}detsember
+      {% endcase %}
+      {{ page.date | date: "%Y" }}
+    </time></p>
+{% endif %}
