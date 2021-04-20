@@ -7,6 +7,7 @@ toc: true
 header:
     og_image: /assets/images/anna-raekoda-err.jpg
     overlay_image: /assets/images/anna-raekoda-err.jpg
+    caption: "CC BY-SA [Märt Põder](https://commons.wikimedia.org/wiki/File:Tartu_Keskpargi_raiumise_vastase_petitsiooni_s%C3%BCmboolne_%C3%BCleandmine_Tartu_linnale.jpg%20)"
 ---
 
 Siin on alustuseks meie korrigeerivad vastused küsimustele, mida paneb linn kodanikele suhu [oma kampaanialehel](https://www.tartu.ee/et/sudalinna-kultuurikeskus#Korduma-kippuvad-k%C3%BCsimused-(KKK)). Lisame aja jooksul ka vastuseid tõsisematele küsimustele Keskpargi, kultuurikeskuse ja linnaplaneerimise teemal.
