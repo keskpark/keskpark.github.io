@@ -4,7 +4,7 @@ slug: asjade-seis
 image: "/assets/images/panoraam.jpg"
 author_profile: false
 last_modified_at: 2021-04-19
-excerpt: "Oleme esitanud linnale küsimused parki ehitamise vastuoluliste plaanide teemal ning ootame neile vastuseid. Soovime koondada siia kokku kogu olulise info, mis aitaks meil päästa pargi ja leida parima koha kultuurikeskusele."
+excerpt: "Veel ei hakata, aga pääsemist ka kuskilt ei paista. Soovime koondada siia kokku kogu olulise info, mis aitaks meil päästa pargi ja leida parima koha kultuurikeskusele."
 ---
 
 Veel ei hakata, aga pääsemist ka [kuskilt ei paista](/faq).
