@@ -4,6 +4,9 @@ title: "Korduma kippuvad küsimused"
 permalink: /faq/
 last_modified_at: 2021-04-20
 toc: true
+header:
+    og_image: /assets/images/anna-raekoda-err.jpg
+    overlay_image: /assets/images/anna-raekoda-err.jpg
 ---
 
 Siin on alustuseks meie korrigeerivad vastused küsimustele, mida paneb linn kodanikele suhu [oma kampaanialehel](https://www.tartu.ee/et/sudalinna-kultuurikeskus#Korduma-kippuvad-k%C3%BCsimused-(KKK)). Lisame aja jooksul ka vastuseid tõsisematele küsimustele Keskpargi, kultuurikeskuse ja linnaplaneerimise teemal.
