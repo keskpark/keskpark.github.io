@@ -42,4 +42,4 @@ Linna põhjendused parki ehitamiseks on pigem vabandused, ilusaid pildikesi maal
 
 Pargi hoonestamine tuli 2014. aastal uuesti kõne alla, kuna linn ei suutnud 2012. aastal edukalt korraldada [kultuurikeskuse ehitamist Magistri tänavale](https://www.err.ee/365362/tartu-maksab-arhitektidele-hoone-eest-mida-ei-ehitatagi). Ehitusala nihutamisega puutumata alale parki püütakse vältida keerukust, mis kaasneb muudel kruntidel ehitamisega juba kehtivate tingimuste, kokkulepete või seonduvate ärihuvidega. Linn pole sõnastanud, mis kriteeriumidest lähtuvalt on park võrreldes teiste asukohtadega hea valik, pole avaldanud ega ilmselt ka teinud süstemaatilist analüüsi alternatiivsete asukohtade kohta.
 
-Parki ehitamise peamised põhjused on majanduslikud.
+Parki ehitamise peamised põhjused on majanduslikud ja linn üritab seni puutumata ala hoonestamisega endal elu lihtsamaks teha.
