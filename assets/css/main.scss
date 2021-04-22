@@ -18,3 +18,8 @@
     padding-top: 0;
     border-top: 0;
 }
+
+.page__hero--overlay .page__title, .page__hero--overlay .page__lead, .page__hero--overlay .page__meta {
+    color: white;
+    text-shadow: 0 0 4px #000;
+}

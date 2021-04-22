@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Päästame Tartu Keskpargi!"
+title: "Kes päästab Tartu Keskpargi?"
 permalink: /about/
 last_modified_at: 2021-04-19
 header:
@@ -18,3 +18,5 @@ Sarnane petitsioon Kesklinna parkide hoonestamise vastu [koostati ka 2015. aasta
 Kesklinna üldplaneering [kehtestati vastuseisust hoolimata 10. juunil 2016](https://info.raad.tartu.ee/dhs.nsf/web/viited/gpunid/GC22581C40021DC41C2257FE3001F4AD0?OpenDocument). Hiljem kanti kesklinna üldplaneering sisuliste muudatusteta üle [linna üldplaneeringusse](https://www.tartu.ee/et/tartu-uldplaneering-2030-kehtiv) ning kultuurikeskuse ehitamine Keskpargi arvelt sai reformierakonna peamiseks valimislubaduseks 2017. aasta KOV valimistel.
 
 Protest parki ehitamise pärast hakkas taas koguma hoogu 2020. aasta sügisel, mil linn teatas, et [kavatseb taotleda kultuurikeskuse ehitamiseks raha riiklikult tähtsa kultuuriobjektina](https://www.tartu.ee/et/sudalinna-kultuurikeskus) ning Kaubamaja kõrvale Keskparki veel ühe sama suure hoone ehitamine võib tõepoolest teoks saada.
+
+Kuid Keskpargi suudame päästa ainult kõik üheskoos!
