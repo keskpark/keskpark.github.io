@@ -1,11 +1,14 @@
 ---
 title: "Linna vastamata küsimused"
 slug: kysimused-linnale
-image: "/assets/images/panoraam.jpg"
 author_profile: false
 last_modified_at: 2021-04-08
 toc: true
 excerpt: "Andsime 8. aprillil toimunud kohtumisel linnale kirjalikult üle küsimused, millele pole seni suudetud anda adekvaatseid vastuseid. Aga ilma on siit väga keeruline kuskile edasi liikuda!"
+header:
+    og_image: /assets/images/anna-raekoda-err.jpg
+    overlay_image: /assets/images/anna-raekoda-err.jpg
+    caption: "CC BY-SA [Märt Põder](https://commons.wikimedia.org/wiki/File:Tartu_Keskpargi_raiumise_vastase_petitsiooni_s%C3%BCmboolne_%C3%BCleandmine_Tartu_linnale.jpg%20)"
 ---
 
 _Need küsimused esitasime ja andsime linnale kirjalikult üle 8. aprillil toimunud kohtumisel linnapea Urmas Klaasi, abilinnapea Gea Kangilaski ja linnaarhitekt Tõnis Arjusega. Kuna kohapeal antud selgitused polnud piisavad, palusime vastuseid 20. aprilliks._
