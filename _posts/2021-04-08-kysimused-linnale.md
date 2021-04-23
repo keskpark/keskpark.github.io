@@ -12,7 +12,7 @@ header:
     caption: "CC BY-SA [Märt Põder](https://commons.wikimedia.org/wiki/File:Tartu_Keskpargi_raiumise_vastase_petitsiooni_s%C3%BCmboolne_%C3%BCleandmine_Tartu_linnale.jpg%20)"
 ---
 
-_Need küsimused esitasime ja andsime linnale kirjalikult üle 8. aprillil toimunud kohtumisel linnapea Urmas Klaasi, abilinnapea Gea Kangilaski ja linnaarhitekt Tõnis Arjusega. Kohapeal antud selgitused polnud piisavad ja palusime vastuseid kirjalikult 20. aprilliks. Kuna tähtajaks me vastuseid ei saanud, [küsimused allkirjade lahtirullimise piketi käigus Raekoja uksele](https://tartu.postimees.ee/7229464/pargikaitsjad-rullisid-raekoja-ees-allkirjad-lahti)._
+_Need küsimused esitasime ja andsime linnale kirjalikult üle 8. aprillil toimunud kohtumisel linnapea Urmas Klaasi, abilinnapea Gea Kangilaski ja linnaarhitekt Tõnis Arjusega. Kohapeal antud selgitused polnud piisavad ja palusime vastuseid kirjalikult 20. aprilliks. Kuna tähtajaks me vastuseid ei saanud, [naelutasime küsimused allkirjade lahtirullimise piketi käigus Raekoja uksele](https://tartu.postimees.ee/7229464/pargikaitsjad-rullisid-raekoja-ees-allkirjad-lahti)._
 
 ## Sissejuhatus
 
