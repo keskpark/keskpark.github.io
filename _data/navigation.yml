@@ -2,5 +2,7 @@
 main:
   - title: "Algatusest"
     url: /about/
+  - title: "Postitused"
+    url: /posts/
   - title: "KKK"
     url: /faq/
