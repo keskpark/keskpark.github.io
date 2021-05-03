@@ -2,7 +2,7 @@
 layout: single
 title: "Korduma kippuvad küsimused"
 permalink: /faq/
-last_modified_at: 2021-04-20
+last_modified_at: 2021-05-03
 toc: true
 header:
     og_image: /assets/images/anna-raekoda-err.jpg
