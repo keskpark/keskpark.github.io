@@ -16,7 +16,7 @@ _Need küsimused esitasime ja andsime linnale kirjalikult üle 8. aprillil toimu
 
 ## Sissejuhatus
 
-Kultuurikeskuse ehitamine Tartu keskpargi ehk Keskpargi Emajõe poolsesse külge võeti eesmärgiks Kesklinna üldplaneeringu menetlemise käigus aastatel 2014-2016. Planeeringu avaliku väljapaneku käigus 19.10─19.11.2015 esitati umbes 160 ettepankut, millest umbes pooled puudutasid pargi- ja haljasalade vähendamist. Linn oli koostanud kõigile neile vastamiseks üheainsa paarilõigulise kommentaari, mille põhisisu oli, et haljasalade vähendamise eesmärk on linna tihendamine.
+Kultuurikeskuse ehitamine Tartu Keskpargi Emajõe poolsesse külge võeti eesmärgiks Kesklinna üldplaneeringu menetlemise käigus aastatel 2014-2016. Planeeringu avaliku väljapaneku käigus 19.10─19.11.2015 esitati umbes 160 ettepanekut, millest umbes pooled puudutasid pargi- ja haljasalade vähendamist. Linn oli koostanud kõigile neile vastamiseks üheainsa paarilõigulise kommentaari, mille põhisisu oli, et haljasalade vähendamise eesmärk on linna tihendamine.
 
 Ettepanekud olid esitanud ka keskkonnaorganisatsioonid nagu Eesti Roheline Liikumine ja Eestimaa Looduse Fond, aga ka keskkonnahoidlikult areneva Tartu Agenda 21 programmdokumendi linnapoolne koostaja Irja Alakivi, kes kõik võtsid sõna pargi- ja haljasalade vähendamise vastu ning said sellesama üldsõnalise vastuse viitega paarilõigulisele kommentaarile.
 
@@ -28,7 +28,7 @@ Linna üldsõnalised vastused Kesklinna pargi- ja haljasalade vähendamise põhj
 
 Tahame saada selgeid vastuseid järgnevatele vastuseta küsimustele: 
 
-### Ⅰ. Kuidas jõuti arusaamale, et pargi- ja haljasalade hõivamine hoonetega vastab linna arengudokumentidele jt pikemaajalistele eesmärkidele ning lepingutega võetud kohustustele keskkonnahoiu ja rohelise linnaplaneerimise vallas, sj kuidas tagatakse rohealade sidus võrgustik, kuidas tõstetakse pargi- ja haljasalade pindala linnaosades ja asumites ning mismoodi tõstetakse pargi- ja hajasalade kvaliteeti linnaelanike elukeskkonna jaoks?
+### Ⅰ. Kuidas jõuti arusaamale, et pargi- ja haljasalade hõivamine hoonetega vastab linna arengudokumentidele jt pikemaajalistele eesmärkidele ning lepingutega võetud kohustustele keskkonnahoiu ja rohelise linnaplaneerimise vallas, sj kuidas tagatakse rohealade sidus võrgustik, kuidas tõstetakse pargi- ja haljasalade pindala linnaosades ja asumites ning mismoodi tõstetakse pargi- ja haljasalade kvaliteeti linnaelanike elukeskkonna jaoks?
 
 1. Linn on lubanud säilitada rohealade sidusa võrgustiku, st rohealad on omavahel minimaalselt nurkapidi seotud nagu malelauamuster. Eesmärk säilitada rohealade võrgustik on läbivalt toodud linna arengu- ja planeerimisdokumentides, kuigi pole selge, kas selle sisuline tähendus on kõigis neis säilinud.
 
@@ -55,7 +55,7 @@ Tahame saada selgeid vastuseid järgnevatele vastuseta küsimustele:
 
 2. Kultuurikeskuse ehitamisel kliimaneutraalse ehitusprotsessi tagamine, hoone materjalivalikuks puidu määramine, vertikaalhaljastuse ja päikesepaneelide kasutamine, parki võimalikult palju säästvate arhitektuuriliste lahenduste eelistamine jmt on keskkonnahoiu mõttes positiivsed ja tõepoolest vahetud füüsilised meetmed, kuid ükski neist ei asenda parki kui iseseisvat väärtust. On tõepoolest teatud sümbolväärtusega ehitada linnasüdamesse eeskujulikult rohelistest põhimõtetest lähtuv hoone, kuid selle tühistab samas kohas oleva pargiala hävitamine hoone nimel kui negatiivne sümbol, mis pealegi on Tartu linnaplaneerimises korduv halvaloomuline muster ja mille süvenemise sümboliks see lõpuks osutub.
 
-3. Kaotatud pargiala kompenseerimine samaväärse alaga südalinnas võiks olla sobiv meede kahjude korvamiseks, kuid selle kohta pole tehtud ühtegi ametlikku ettepanekut. Siiski jääb küsimus, et isegi kui on võimalik tagada rohealade terviklikkus rohekoridoride vm rohealade sidususe kadu korvavate meetmetega, kas Kespargi terviklikkuse kaotamisel on südalinnas üldse enam samaväärses funktsioonis pargipinda, mis rahuldaks inimeste vajadust rohe- ja virgestusala järgi samal määral — eriti kui linn on ühtasi võtnud eesmärgiks linna tihendamise kasvuhoonegaaside vähendamise meetmena.
+3. Kaotatud pargiala kompenseerimine samaväärse alaga südalinnas võiks olla sobiv meede kahjude korvamiseks, kuid selle kohta pole tehtud ühtegi ametlikku ettepanekut. Siiski jääb küsimus, et isegi kui on võimalik tagada rohealade terviklikkus rohekoridoride vm rohealade sidususe kadu korvavate meetmetega, kas Keskpargi terviklikkuse kaotamisel on südalinnas üldse enam samaväärses funktsioonis pargipinda, mis rahuldaks inimeste vajadust rohe- ja virgestusala järgi samal määral — eriti kui linn on ühtasi võtnud eesmärgiks linna tihendamise kasvuhoonegaaside vähendamise meetmena.
 
 
 ### Ⅲ. Kui eelnevad küsimused ei saa positiivset vastust, siis missuguseid kultuurikeskuse Keskparki ehitamise alternatiive linn kaalus ja on valmis kaaluma, missugustest põhimõtetest teiste asukohtade hindamisel lähtuti, missugune oli sisend ja missugused olid hindamiskriteeriumid asukohtade sobivuse hindamisel, kellelt telliti sellekohane uuring ja kus sellega tutvuda saab?
