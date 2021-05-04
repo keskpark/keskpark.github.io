@@ -77,7 +77,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : keskpark
   app_id                 :
   publisher              :
 og_image                 : /assets/images/panoraam.jpg
@@ -134,7 +134,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/groups/1056327784855045
+      url: https://www.facebook.com/keskpark
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/keskpark/keskpark.github.io
