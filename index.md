@@ -11,7 +11,7 @@ header:
     - label: "Loe täpsemalt"
       url: "asjade-seis"
   caption: "CC BY-SA [Mihkel Lehtmets](https://commons.wikimedia.org/wiki/File:Tartu_Panoraam.jpg%20)"
-excerpt: "Üle 5000 tartlase on veendunud, et Keskparki veel ühe Kaubamaja suuruse hoone ehitamine on halb mõte. Kindlasti leiame üheskoos parema lahenduse!"
+excerpt: "Üle 5000 tartlase on veendunud, et Keskparki veel ühe Kaubamaja mõõdus hoone ehitamine on halb mõte. Kindlasti leiame üheskoos parema lahenduse!"
 intro: 
   - excerpt: 'Kesklinna pargid ja haljasalad moodustavad sidusa võrgustiku, pakkudes rohepausi nii tõttajale kui uitajale. Heade mõtete linnale iseomast looduslähedast elukeskkonda tuleb hinnata ja väärindada — ning mitte mingil juhul vähendada.'
 feature_row:

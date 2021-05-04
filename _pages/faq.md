@@ -7,6 +7,8 @@ toc: true
 header:
     og_image: /assets/images/anna-raekoda-err.jpg
     overlay_image: /assets/images/anna-raekoda-err.jpg
+    overlay_color: "#000"
+    overlay_filter: "0.5"
     caption: "CC BY-SA [Märt Põder](https://commons.wikimedia.org/wiki/File:Tartu_Keskpargi_raiumise_vastase_petitsiooni_s%C3%BCmboolne_%C3%BCleandmine_Tartu_linnale.jpg%20)"
 ---
 

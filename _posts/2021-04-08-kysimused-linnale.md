@@ -5,10 +5,12 @@ author_profile: false
 last_modified_at: 2021-04-08
 toc: true
 excerpt: "Andsime 8. aprillil toimunud kohtumisel linnale kirjalikult üle küsimused, millele pole seni suudetud anda adekvaatseid vastuseid. Aga ilma on siit väga keeruline kuskile edasi liikuda!"
-tagline: "Kui linn ei suuda põhjendada rohealade vähendamist ega tuua välja asukohavaliku kriteeriume, on siit väga keeruline edasi liikuda."
+tagline: "Kui linn ei suuda põhjendada rohealade vähendamist ega tuua välja asukohavaliku kriteeriume, on väga keeruline edasi liikuda."
 header:
     og_image: /assets/images/anna-raekoda-err.jpg
     overlay_image: /assets/images/anna-raekoda-err.jpg
+    overlay_color: "#000"
+    overlay_filter: "0.5"
     caption: "CC BY-SA [Märt Põder](https://commons.wikimedia.org/wiki/File:Tartu_Keskpargi_raiumise_vastase_petitsiooni_s%C3%BCmboolne_%C3%BCleandmine_Tartu_linnale.jpg%20)"
 ---
 
