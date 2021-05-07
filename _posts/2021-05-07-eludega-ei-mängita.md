@@ -30,7 +30,7 @@ Tihendamine on õigupoolest planeerimisvõte eeslinnade tühermaade jaoks, süda
 
 ## Mõõdetakse säästetud eludes
 
-Keskpargi säilitamisega ei päästa me ainult ega eelkõige looduspärandit, vaid ikkagi tartlaste elukeskkonda. Viimasest inimearengu aruandest võib lugeda, et loodusaladest saadava tervisekasu arvestamisega linnaplaneerimisel on Eestis probleem. Seda kasu mõõdetakse [teadlaste hinnangul](https://inimareng.ee/loodusalade-m%C3%B5ju-inimeste-heaolule.html) aga "ärahoitud enneaegsete surmadega, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega". Paneb mõtlema?
+Keskpargi säilitamisega ei päästa me aga ainult ega isegi eelkõige looduspärandit, vaid ikkagi tartlaste elukeskkonda. Viimasest inimearengu aruandest võib lugeda, et loodusaladest saadava tervisekasu arvestamisega linnaplaneerimisel on Eestis probleem. Seda kasu mõõdetakse [teadlaste hinnangul](https://inimareng.ee/loodusalade-m%C3%B5ju-inimeste-heaolule.html) aga "ärahoitud enneaegsete surmadega, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega". Paneb mõtlema?
 
 Londoni linn hindab rohealade tõttu igaaastaselt kokku hoitud tervisekulusid 950 miljonile naelale, iga parkidesse investeeritud naela saab omavalitsus tagasi 27-kordselt. Avalikud pargid ja rohealad moodustavad Londonist 18 protsenti, Tartu vastav näitaja on Keskkonnagentuuri hinnangul ligi 15 protsenti.
 
