@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 author: Märt Põder
 last_modified_at: 2021-05-07
-excerpt: ""
+excerpt: "Pole isegi mitte kaalutud parki säästvaid asukohti ja keskkonnasäästu põhjendatakse linna tihendamise teooria väärkasutusega."
 tagline: "Loodusaladest saadavat tervisekasu mõõdetakse ärahoitud enneaegsete surmade, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega."
 header:
     og_image: /assets/images/elud.jpg
