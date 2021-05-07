@@ -60,3 +60,4 @@ Nii jääks puutumata 70 aasta eest ilmasõja varemetele olude sunnil tekkinud p
 
 > "See loodi taastamise korras projektita, pandi puukesed kasvama, aga nüüd on siia kasvanud terve park. Looduskaitseliselt võib olla õigus, et tuleb siia neid puid võimalikult jätta."
 
+_Artikkel ilmus 5. mail 2021 peakirja all [Targas linnas parki ei ehitata](https://tartu.postimees.ee/7240117/mart-poder-targas-linnas-parki-ei-ehitata) ajalehes [Tartu Postimees](https://tartu.postimees.ee/)._
