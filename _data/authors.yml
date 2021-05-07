@@ -8,7 +8,7 @@ Märt Põder:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tramm@infoaed.ee"
-    - label: "Website"
+    - label: "Veebisait"
       icon: "fas fa-fw fa-link"
       url: "https://gafgaf.infoaed.ee"
     - label: "Twitter"
