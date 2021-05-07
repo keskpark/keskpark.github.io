@@ -32,7 +32,7 @@ Kui midagi siin päriselt tihendamist vajab, on see südalinna [üha enam katkes
 
 ## Mõõdetakse säästetud eludes
 
-Keskpargi säilitamisega ei päästa me aga ainult ega isegi eelkõige looduspärandit, vaid ikkagi tartlaste elukeskkonda. Viimasest inimearengu aruandest võib lugeda, et loodusaladest saadava tervisekasu arvestamisega linnaplaneerimisel on Eestis probleem. Seda kasu mõõdetakse [teadlaste hinnangul](https://inimareng.ee/loodusalade-m%C3%B5ju-inimeste-heaolule.html) aga "ärahoitud enneaegsete surmadega, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega". Paneb mõtlema?
+Keskpargi säilitamisega ei päästa me aga ainult ega isegi mitte eelkõige looduspärandit, vaid ikkagi tartlaste elukeskkonda. Viimasest inimearengu aruandest võib lugeda, et loodusaladest saadava tervisekasu arvestamisega linnaplaneerimisel on Eestis probleem. Seda kasu mõõdetakse [teadlaste hinnangul](https://inimareng.ee/loodusalade-m%C3%B5ju-inimeste-heaolule.html) aga "ärahoitud enneaegsete surmadega, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega". Paneb mõtlema?
 
 Londoni linn [hindab rohealade tõttu](https://www.london.gov.uk/sites/default/files/4244_-_gla_-_london_green_spaces_commission_report_v7_0.pdf) igaaastaselt kokku hoitud tervisekulusid 950 miljonile naelale, iga parkidesse investeeritud naela saab omavalitsus tagasi 27-kordselt. Avalikud pargid ja rohealad moodustavad Londonist 18 protsenti, Tartu vastav näitaja on Keskkonnagentuuri hinnangul ligi 15 protsenti.
 
@@ -56,7 +56,7 @@ Tõsi, ka Holmi kvartalisse ehitades ei jääks puutumata osa sealsest haljastus
 
 Keskkonda oleks maksimaalselt võimalik säästa planeerides kultuurikeskuse Turusilla juurde, kus on nii sadama- kui parklapinda, arhitektuurivõistlusest tulenevalt ümber tõstmisel avaturg, toidukauplus -- ja suurprojekti ärategemiseks saaks ehk kokkuleppele ka Sadamateatriga? Ahhaa, Aura, bussijaama ning Annelinna kui suurima elanike arvuga linnaosa vahetus naabruses oleks sel kohal tõeline potentsiaal saada universaalseks tõmbekeskuseks ning uue ja vana ühendajaks.
 
-Kultuuri põimimine turuga oleks lisaks avaliku ruumi loomise mõttes samuti perspektiivikam väljakutse kui püüd mahutada Keskparki Kaubamaja mõõdus hoone! Eks see kõik nõuaks linnavõimult tööd, aga minu arvates vääriks vaeva leida kultuurikeskusele koht, mis ei löö linnasüdamesse järjekordset haava.
+Kultuuri põimimine turuga oleks avaliku ruumi loomise mõttes samuti perspektiivikam väljakutse kui püüd mahutada Keskparki Kaubamaja mõõdus hoone! Eks see kõik nõuaks linnavõimult tööd, aga minu arvates vääriks vaeva leida kultuurikeskusele koht, mis ei löö linnasüdamesse järjekordset haava.
 
 Nii jääks puutumata 70 aasta eest ilmasõja varemetele olude sunnil tekkinud park, mis pole enam ammu mitte parandamist vajav sõjahaav, vaid on pigem ise raviomadustega. Nagu kinnitas Keskpargi sünnile tõuke andnud linnaarhitekt Arnold Matteus [juba 1981. aastal](https://youtu.be/OloEobA8_5o?t=1775):
 
