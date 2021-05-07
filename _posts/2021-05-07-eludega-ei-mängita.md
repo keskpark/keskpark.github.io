@@ -26,23 +26,23 @@ Nii ongi arutelu kultuurikeskuse üle kujunenud peamiselt vabanduste otsimiseks 
 
 Pargipinna kaotamise esitlemine keskkonnahoiuna pole enamat kui silmamoondus, sest elava linnalooduse kadu ei saa korvata ei puidust hoone ega oodatav transpordi vähenemine linnasüdame tihendamisest. Transport pole iseenesest keskkonnakahju, seda on teatud transpordiliigid, autoliikluse vähendamise jutult tõmbavad aga kiiresti vaiba alt keskuse kaks parkimiskorrust.
 
-Tihendamine on õigupoolest planeerimisvõte eeslinnade tühermaade jaoks, südalinnas väljendab see lihtsalt ehitussurvele allumist. Täpselt selline kogemus on põhjamaade linnadel, kus tihendamise teooriat samuti kiiresti väärkasutama asuti. Keskpargi hoonestamisega kaoks aga tõepoolest Emajõe rohekoridori ainus otsene side kaitsealuse Toomemäe ja Lillemäe parkidega. Kui midagi siin päriselt tihendamist vajab, on see südalinna üha enam katkestatud rohevõrgustik -- et säilitada Tartu unikaalne südalinn Toomemäe looduspargiga.
+Tihendamine on õigupoolest planeerimisvõte eeslinnade tühermaade jaoks, südalinnas väljendab see lihtsalt ehitussurvele allumist. Täpselt selline kogemus on põhjamaade linnadel, kus tihendamise teooriat samuti kiiresti väärkasutama asuti. Keskpargi hoonestamisega kaoks aga tõepoolest Emajõe rohekoridori ainus otsene side kaitsealuse Toomemäe ja Lillemäe parkidega. Kui midagi siin päriselt tihendamist vajab, on see südalinna [üha enam katkestatud rohevõrgustik](/faq/#kas-parki-ääristavad-puud-plaanitakse-ka-maha-võtta-ja-majaga-suletakse-roheline-vöönd) -- et säilitada Tartu unikaalne südalinn Toomemäe looduspargiga.
 
 ## Mõõdetakse säästetud eludes
 
-Keskpargi säilitamisega ei päästa me ainult ega eelkõige looduspärandit, vaid ikkagi tartlaste elukeskkonda. Viimasest inimearengu aruandest võib lugeda, et loodusaladest saadava tervisekasu arvestamisega linnaplaneerimisel on Eestis probleem. Seda kasu mõõdetakse teadlaste hinnangul aga "ärahoitud enneaegsete surmadega, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega". Paneb mõtlema?
+Keskpargi säilitamisega ei päästa me ainult ega eelkõige looduspärandit, vaid ikkagi tartlaste elukeskkonda. Viimasest inimearengu aruandest võib lugeda, et loodusaladest saadava tervisekasu arvestamisega linnaplaneerimisel on Eestis probleem. Seda kasu mõõdetakse [teadlaste hinnangul](https://inimareng.ee/loodusalade-m%C3%B5ju-inimeste-heaolule.html) aga "ärahoitud enneaegsete surmadega, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega". Paneb mõtlema?
 
 Londoni linn hindab rohealade tõttu igaaastaselt kokku hoitud tervisekulusid 950 miljonile naelale, iga parkidesse investeeritud naela saab omavalitsus tagasi 27-kordselt. Avalikud pargid ja rohealad moodustavad Londonist 18 protsenti, Tartu vastav näitaja on Keskkonnagentuuri hinnangul ligi 15 protsenti.
 
 Nii võib ütelda, et kohtumisel Keskpargi päästmise toetusrühmaga ei eksinudki linnapea Urmas Klaas väga, kui veenis osalejaid: "Tartu südalinn on ju üks suur park -- alates Ülejõe pargist, lõetades Toomemäe ja Kassitoomega."
 
-Ent linnapeal oleks ehk õppida oma Suurbritannia kolleegilt, kes Londoni eripära hinnates ning mõistes on otsustanud rohealade hoonestamise asemel kasvatada nende osakaalu linnas 50 protsendi peale... Ta kutsub ka linnu üle maailma liituma nationalparkcity.org algatusega ning loodab, et aastaks 2025 käib Londoni jälgedes neid juba 25. Kas see oleks Tartu võimalus?
+Ent linnapeal oleks ehk õppida oma Suurbritannia kolleegilt, kes Londoni eripära hinnates ning mõistes on otsustanud rohealade hoonestamise asemel kasvatada nende osakaalu linnas 50 protsendi peale... Ta kutsub ka linnu üle maailma liituma [nationalparkcity.org](https://www.nationalparkcity.org/) algatusega ning loodab, et aastaks 2025 käib Londoni jälgedes neid juba 25. Kas see oleks Tartu võimalus?
 
 ## Linnavõimu vastamata küsimused
 
 Kesklinna parkide saatus jäi õhku juba 2016. aastal, mil vastuväiteid eirates kehtestati Keskparki kultuurikeskuse ehitamist ette näinud üldplaneering. Hoonestamise vastu võtsid avalikul väljapanekul sõna ERL ja ELF -- kaks Eesti auväärseimat keskkonnakaitse ühingut, mille mõlema peakorterid Tartus.
 
-Vastused roheorganisatsioonidele ja volikogus aru pärinud valimisliidu Vabakund esindajatele olid põiklevad, alternatiivsete asukohtade uuringut polnud linnavõimul ette näidata, kohavaliku kriteeriume kirjalikul kujul ei esitatud. Siiani pole vastatud pargikaitsjate poolt kohtumisel üle antud küsimustele.
+Vastused roheorganisatsioonidele ja volikogus aru pärinud valimisliidu Vabakund esindajatele olid põiklevad, alternatiivsete asukohtade uuringut polnud linnavõimul ette näidata, kohavaliku kriteeriume kirjalikul kujul ei esitatud. Siiani pole vastatud pargikaitsjate poolt [kohtumisel üle antud küsimustele](/kysimused-linnale).
 
 Seejuures pole tõsi, et kultuurikeskusele ei ole Keskparki säästvaid asukohti.
 
@@ -56,7 +56,7 @@ Keskkonda oleks maksimaalselt võimalik säästa planeerides kultuurikeskuse Tur
 
 Kultuuri põimimine turuga oleks lisaks avaliku ruumi loomise mõttes samuti perspektiivikam väljakutse kui püüd mahutada Keskparki Kaubamaja mõõdus hoone! Eks see kõik nõuaks linnavõimult tööd, aga minu arvates vääriks vaeva leida kultuurikeskusele koht, mis ei löö linnasüdamesse järjekordset haava.
 
-Nii jääks puutumata 70 aasta eest ilmasõja varemetele olude sunnil tekkinud park, mis pole enam ammu mitte parandamist vajav sõjahaav, vaid on pigem ise raviomadustega. Nagu kinnitas Keskpargi sünnile tõuke andnud linnaarhitekt Arnold Matteus juba 1981. aastal:
+Nii jääks puutumata 70 aasta eest ilmasõja varemetele olude sunnil tekkinud park, mis pole enam ammu mitte parandamist vajav sõjahaav, vaid on pigem ise raviomadustega. Nagu kinnitas Keskpargi sünnile tõuke andnud linnaarhitekt Arnold Matteus [juba 1981. aastal](https://youtu.be/OloEobA8_5o?t=1775):
 
 > "See loodi taastamise korras projektita, pandi puukesed kasvama, aga nüüd on siia kasvanud terve park. Looduskaitseliselt võib olla õigus, et tuleb siia neid puid võimalikult jätta."
 
