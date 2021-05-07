@@ -32,7 +32,7 @@ Tihendamine on õigupoolest planeerimisvõte eeslinnade tühermaade jaoks, süda
 
 Keskpargi säilitamisega ei päästa me aga ainult ega isegi eelkõige looduspärandit, vaid ikkagi tartlaste elukeskkonda. Viimasest inimearengu aruandest võib lugeda, et loodusaladest saadava tervisekasu arvestamisega linnaplaneerimisel on Eestis probleem. Seda kasu mõõdetakse [teadlaste hinnangul](https://inimareng.ee/loodusalade-m%C3%B5ju-inimeste-heaolule.html) aga "ärahoitud enneaegsete surmadega, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega". Paneb mõtlema?
 
-Londoni linn hindab rohealade tõttu igaaastaselt kokku hoitud tervisekulusid 950 miljonile naelale, iga parkidesse investeeritud naela saab omavalitsus tagasi 27-kordselt. Avalikud pargid ja rohealad moodustavad Londonist 18 protsenti, Tartu vastav näitaja on Keskkonnagentuuri hinnangul ligi 15 protsenti.
+Londoni linn [hindab rohealade tõttu](https://www.london.gov.uk/sites/default/files/4244_-_gla_-_london_green_spaces_commission_report_v7_0.pdf) igaaastaselt kokku hoitud tervisekulusid 950 miljonile naelale, iga parkidesse investeeritud naela saab omavalitsus tagasi 27-kordselt. Avalikud pargid ja rohealad moodustavad Londonist 18 protsenti, Tartu vastav näitaja on Keskkonnagentuuri hinnangul ligi 15 protsenti.
 
 Nii võib ütelda, et kohtumisel Keskpargi päästmise toetusrühmaga ei eksinudki linnapea Urmas Klaas väga, kui veenis osalejaid: "Tartu südalinn on ju üks suur park -- alates Ülejõe pargist, lõetades Toomemäe ja Kassitoomega."
 
