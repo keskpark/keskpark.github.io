@@ -38,7 +38,7 @@ Londoni linn [hindab rohealade tõttu](https://www.london.gov.uk/sites/default/f
 
 Nii võib ütelda, et kohtumisel Keskpargi päästmise toetusrühmaga ei eksinudki linnapea Urmas Klaas väga, kui veenis osalejaid: "Tartu südalinn on ju üks suur park -- alates Ülejõe pargist, lõetades Toomemäe ja Kassitoomega."
 
-Ent linnapeal oleks ehk õppida oma Suurbritannia kolleegilt, kes globaalses ärilinnas roheväärtuse potentsiaali mõistes on otsustanud hoonestamise asemel rohealadesse hoopis investeerida, kasvatada nende osakaalu linnas 50 protsendi peale... Ta kutsub ka linnu üle maailma liituma [nationalparkcity.org](https://www.nationalparkcity.org/) algatusega ning loodab, et aastaks 2025 käib Londoni jälgedes neid juba 25. Kas see oleks Tartu võimalus?
+Ent linnapeal oleks ehk õppida oma Suurbritannia kolleegilt, kes globaalses ärilinnas roheväärtuse potentsiaali mõistes on otsustanud hoonestamise asemel rohealadesse hoopis investeerida, kasvatada nende osakaalu 50 protsendi peale... Ta kutsub ka linnu üle maailma liituma [nationalparkcity.org](https://www.nationalparkcity.org/) algatusega ning loodab, et aastaks 2025 käib Londoni jälgedes neid juba 25. Kas see oleks Tartu võimalus?
 
 ## Linnavõimu vastamata küsimused
 
