@@ -28,7 +28,7 @@ Pargipinna kaotamise esitlemine keskkonnahoiuna pole enamat kui silmamoondus, se
 
 Tihendamine on õigupoolest planeerimisvõte eeslinnade tühermaade jaoks, südalinnas väljendab see lihtsalt ehitussurvele allumist. Täpselt selline kogemus on põhjamaade linnadel, kus tihendamise teooriat samuti kiiresti väärkasutama asuti. Keskpargi hoonestamisega kaoks aga tõepoolest Emajõe rohekoridori ainus otsene side kaitsealuse Toomemäe ja Lillemäe parkidega.
 
-Kui midagi siin päriselt tihendamist vajab, on see südalinna [üha enam katkestatud rohevõrgustik](/faq/#kas-parki-ääristavad-puud-plaanitakse-ka-maha-võtta-ja-majaga-suletakse-roheline-vöönd) -- et säilitada Tartu unikaalne südalinn Toomemäe looduspargiga.
+Kui midagi siin päriselt tihendamist vajab, on see südalinna [üha enam katkestatud rohevõrgustik](/faq/#kas-parki-ääristavad-puud-plaanitakse-ka-maha-võtta-ja-majaga-suletakse-roheline-vöönd) -- et säilitada Tartu unikaalne linnakeskus Toomemäe looduspargiga.
 
 ## Mõõdetakse säästetud eludes
 
