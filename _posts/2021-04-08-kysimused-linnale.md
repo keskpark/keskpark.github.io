@@ -1,7 +1,6 @@
 ---
 title: "Linna vastamata küsimused"
 slug: kysimused-linnale
-author_profile: false
 last_modified_at: 2021-04-08
 toc: true
 excerpt: "Andsime 8. aprillil toimunud kohtumisel linnale kirjalikult üle küsimused, millele pole seni suudetud anda adekvaatseid vastuseid. Aga ilma on siit väga keeruline kuskile edasi liikuda!"

@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Your Name"
 description: >- # this means to ignore newlines until "baseurl:"
   Üle 5000 tartlase on veendunud, et Keskparki veel ühe Kaubamaja
-  suuruse hoone ehitamine on halb mõte. Heade mõtete linnale iseomast
+  mõõdus hoone ehitamine on halb mõte. Heade mõtete linnale iseomast
   looduslähedast elukeskkonda tuleb hinnata ja väärindada —
   ning mitte mingil juhul vähendada.
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -99,26 +99,26 @@ analytics:
 # Site Author
 author:
   name             : "Päästame Tartu Keskpargi!"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Parki ei ehitata. Nii on."
-  location         : "Tartus ja mujal"
-  email            : tramm@infoaed.ee
+  avatar           : "/assets/images/algatuse-profiil.jpg"
+  bio              : "Oleme veendunud, et kultuuri- ja kogukonnakeskuse saab ehitada ka heade mõtete linnale iseomast looduslähedast elukeskkonda ohverdamata."
+  location         : # "Tartu"
+  email            : # keskpark@infoaed.ee
   links:
-    - label: "Email"
+    - label: "Kirjuta meile!"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:keskpark@infoaed.ee"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
+    - label: "Facebooki grupp"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
+      url: "https://www.facebook.com/groups/516548656373063"
+    - label: "GitHubi repo"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/keskpark/keskpark.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

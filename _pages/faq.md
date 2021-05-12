@@ -4,6 +4,7 @@ title: "Korduma kippuvad küsimused"
 permalink: /faq/
 last_modified_at: 2021-05-03
 toc: true
+author_profile: true
 header:
     og_image: /assets/images/anna-raekoda-err.jpg
     overlay_image: /assets/images/anna-raekoda-err.jpg

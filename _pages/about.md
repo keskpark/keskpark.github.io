@@ -2,6 +2,7 @@
 layout: single
 title: "Kes päästab Tartu Keskpargi?"
 permalink: /about/
+author_profile: true
 last_modified_at: 2021-04-19
 header:
     og_image: /assets/images/kepik6nd.jpg
@@ -11,7 +12,7 @@ header:
 
 Algatus "Päästame Tartu Keskpargi!" sai alguse 12. märtsil informaatikaõppejõud Anna Aljanaki [koostatud petitsioonist](https://www.change.org/p/tartu-linnapea-peatada-tartu-kesklinna-pargi-maharaiumist-selleks-et-süku-ehitada), mis nõudis Tartu linna Keskpargi maharaiumise peatamist. 
 
-Petitsiooni ümber koondus kohe hulk toetajaid ning peagi moodustati Facebooki grupp ["Päästame Tartu keskpargi"](https://www.facebook.com/groups/1056327784855045). Sellel on nüüdseks üle 100 liikme, nende seas arhitekte ja projekteerijaid, looduskaitsjaid ja maastikuarhitekte, eri valdkondade õppejõude, üliõpilasi ja lihtsalt aktiivseid linnaelanikke.
+Petitsiooni ümber koondus kohe hulk toetajaid ning loodi [Facebooki kinnine grupp](https://www.facebook.com/groups/1056327784855045), millega liitus üle 100 liikme, nende seas arhitekte ja projekteerijaid, looduskaitsjaid ja maastikuarhitekte, eri valdkondade õppejõude, üliõpilasi ja lihtsalt aktiivseid linnaelanikke. Nüüdseks oleme kolinud oma arutelud ja tegevused avalikku gruppi ["Päästame Tartu keskpargi!"](https://www.facebook.com/groups/516548656373063), millega kutsume kõiki huvilisi liituma!
 
 Sarnane petitsioon Kesklinna parkide hoonestamise vastu [koostati ka 2015. aastal](https://petitsioon.ee/tartupargid). See sai küll 2716 allkirja ja petitsioon anti linnale üle Kesklinna üldplaneeringu avaliku arutelu protsessis, kuid [sotsiaaldemokraatide, keskerakonna ja reformierakonna linnavalitsus](https://et.wikipedia.org/wiki/Tartu_linnavalitsus#2013._aasta_kohalikud_valimised) ignoreeris neid ja ülejäänud linnaelanike [eraldiseisvalt esitatud ettepanekuid](https://info.raad.tartu.ee/dhs.nsf/web/gpunid/GC22581C40021DC41C2257F4F00382E1C), milles nõuti Kesklinna parkide säilitamist.
 
