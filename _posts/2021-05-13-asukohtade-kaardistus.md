@@ -70,7 +70,9 @@ _Linn 5475 m², riik 345 m², era 351 m²_
 <figcaption>Magistri tn jääb plaanitud täismahu jaoks pisut kitsaks</figcaption>
 </figure>
 
-Kogupinda on umbes 6927 m², üks õnnestunud konkurss, mis linna eksimuste tõttu ehituseni ei jõudnud. Alale rakenduvad muinsuskaitse poolt ettenähtud piirangud, kuid varasemalt eelistatud lahendusena on asukohal kindlasti perspektiivi. Asutuste ühendamisel tuleks ruumilahendused niikuinii ümber mõtelda, mistõttu sõltub palju asutuste ühisest tulevikunägemusest. Siiski on sellel asukohal ilmselt kõige rohkem ehituslikke piiranguid ja [arhitektuurikonkursi võidutöös](http://www.arhliit.ee/arhitektuurivoistlused/tartu-raamatukogu-ja-kunstimuuseumi-konkurssunstim/) kirjeldatakse väljakutseid nii:
+Kogupinda on umbes 6927 m², üks õnnestunud konkurss, mis linna eksimuste tõttu ehituseni ei jõudnud. Alale rakenduvad muinsuskaitse poolt ettenähtud piirangud, kuid varasemalt eelistatud lahendusena on asukohal kindlasti perspektiivi. Asutuste ühendamisel tuleks ruumilahendused niikuinii ümber mõtelda, mistõttu sõltub palju asutuste ühisest tulevikunägemusest.
+
+Siiski on sellel asukohal ilmselt kõige rohkem ehituslikke piiranguid ja [arhitektuurikonkursi võidutöös](http://www.arhliit.ee/arhitektuurivoistlused/tartu-raamatukogu-ja-kunstimuuseumi-konkurssunstim/) kirjeldatakse väljakutseid nii:
 
 Raamatukogu ja kunstimuuseumi hoone on Tartu südame, jõekalda ja tulevase kultuurikvartali uus maamärk, mis võimendab nii selle konkreetse koha kui ka kogu linna kuvandit. Uue kuvandi aluseks on tavadest vaba ruumikontseptsioon, mis tugineb loodusvorme järgival integraalsel geomeetrial. Koha ruumipotentsiaali, milleks on eelkõige väljakujunenud linnaruum, on hoone kavandamisel ära kasutatud sünteesiva üldistusega ning on „üle kirjutatud“ uue arhitektuuri, linnaruumiliste ja maastikuliste lahendustega.
 {: .notice--info}
@@ -86,7 +88,9 @@ _Linn 21 539 m²_
 <figcaption>Pargipind on 21 333 m² ja üldplaneeringu järgi on lubatud hoonestada 8840 m², kogu ala kuulub linnale ja kõik oleks lihtne — kui ainult parki ees ei oleks</figcaption>
 </figure>
 
-Pargi Vabaduse puiestee poolse osa hoonestamine vastavalt üldplaneeringule tähendab hinnanguliselt poolest pargist loobumist ja rohevõrgustiku olulist katkestamist. Linn on asunud mõtlema hoone alternatiivsetele asenditele pargis ja laiemalt, kuid Kaubamaja mõõdus hoone paigutamine parki tähendab igal juhul Keskpargi kui südalinna ainsa suurema pargiala kui universaalse rohepuhvri kadumist. Linna plaanid kultuurikesuse rajamisel on läbimõtlemata ja lubadused korvata loodusala kadumist teiste rohealade väärindamise või kliimapositiivse hoone ehitamisega [ei kannata kriitikat](/faq/). Linn ise kirjeldab [riigikogule esitatud rahataotluses](https://www.tartu.ee/et/sudalinna-kultuurikeskus) Keskpargi hoonestamise perspektiivi nii:
+Pargi Vabaduse puiestee poolse osa hoonestamine vastavalt üldplaneeringule tähendab hinnanguliselt poolest pargist loobumist ja rohevõrgustiku olulist katkestamist. Linn on asunud mõtlema hoone alternatiivsetele asenditele pargis ja laiemalt, kuid Kaubamaja mõõdus hoone paigutamine parki tähendab igal juhul Keskpargi kui südalinna ainsa suurema pargiala kui universaalse rohepuhvri kadumist. Linna plaanid kultuurikesuse rajamisel on läbimõtlemata ja lubadused korvata loodusala kadumist teiste rohealade väärindamise või kliimapositiivse hoone ehitamisega [ei kannata kriitikat](/faq/).
+
+Linn ise kirjeldab [riigikogule esitatud rahataotluses](https://www.tartu.ee/et/sudalinna-kultuurikeskus) Keskpargi hoonestamise perspektiivi nii:
 
 Südalinna kultuurikeskusest saab kõigile linnaelanikele ja Tartu külalistele mõeldud kultuuriga sisustatud kvaliteetne avalik ruum Tartu südames – vanalinna ja n-ö uue keskuse vahelisel alal. /---/ Koos ümbritseva roheala ning üle Vabaduse puiestee laiuva Emajõe kaldaga, mis kõik arhitektuurse lahenduse abil tervikuks sulanduvad, kujuneb sellest külalislahke ja läbimõeldud avalik ruum. Eesmärgiks on kujundada keskkond, kuhu kõik on oodatud – uudistama, kohtuma, tööd tegema või niisama olema.
 {: .notice--info}
