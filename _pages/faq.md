@@ -31,7 +31,7 @@ Linnavalitsus väidab, et eesmärk on ehitada parki sobiv puidust kliimaneutraal
 
 ## "Kui suur see maja olema saab, kui üldplaneering näeb ette 50% pargi mahust?"
 
-Linnavalitsus väidab, et südalinna kultuurikeskuse projektiga on hoone mahuks planeeritud mitte rohkem kui 1/3 pargialast. Kuna hoone üldpinnaks on seatud 22000m², peab see olema vähemalt 3-korruseline. 1/3 pargist on kõigist võimalikest variantidest kõige ruumisäästvam. Hoone võib tulla kuni 42% pargi krundist. Kuna pargi krundi sisse on arvestatud ka Küüni tänava asfalteeritud kõnniteed, siis on võimalik, et hoone võtab enda alla rohkem kui poole praegusest haljastatud alast Keskpargis. 
+Linnavalitsus väidab, et südalinna kultuurikeskuse projektiga on hoone mahuks planeeritud mitte rohkem kui 1/3 pargialast. Kuna hoone üldpinnaks on seatud 22 000 m², peab see olema vähemalt 3-korruseline. 1/3 pargist on kõigist võimalikest variantidest kõige ruumisäästvam. Hoone võib tulla kuni 42% pargi krundist. Kuna pargi krundi sisse on arvestatud ka Küüni tänava asfalteeritud kõnniteed, siis on võimalik, et hoone võtab enda alla rohkem kui poole praegusest haljastatud alast Keskpargis. 
 
 ## "Miks on südalinna vaja suurt parkimismaja, see ju kutsub inimesi rohkem autoga sõitma?"
 
