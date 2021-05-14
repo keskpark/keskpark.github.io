@@ -38,7 +38,7 @@ _Linn 6949 m², riik 7021 m², linn/riik 3646 m², era 7855 m²_
 <figcaption>Kogupinda on Atlantise ümber 24 225 m², juba ainuüksi riigimaale mahuks keskus ära</figcaption>
 </figure>
 
-Ka arhitektuurikonkursi järgi on siia plaanitud avalikke hooneid, nt riigimaja eri riigiasutuste jaoks, seega oleks kultuurkeskuse ehitamine kooskõlas linna plaanidega. Linna maast 5106 m² on Emajõe kaldal, kuhu hoonet ehitada ei saa, kvartalisse ehitamine eeldab ka osast haljastusest loobumist, kuid 3646 m² maast on sihtotstarbeta ning selle kasutuselevõtmisel ja kaldavööndiga kombineerimisel on ehitamiseks mitmesuguseid võimalusi. Ka on loomulik teha parima tulemuse saavutamiseks koostööd eramaa omanikega.
+Ka arhitektuurikonkursi järgi on siia plaanitud avalikke hooneid, nt riigimaja eri riigiasutuste jaoks, seega oleks kultuurikeskuse ehitamine kooskõlas linna plaanidega. Linna maast 5106 m² on Emajõe kaldal, kuhu hoonet ehitada ei saa, kvartalisse ehitamine eeldab ka osast haljastusest loobumist, kuid 3646 m² maast on sihtotstarbeta ning selle kasutuselevõtmisel ja kaldavööndiga kombineerimisel on ehitamiseks mitmesuguseid võimalusi. Ka on loomulik teha parima tulemuse saavutamiseks koostööd eramaa omanikega.
 
 Holmi kvartali [arhitektuurivõistluse võidutöös](https://tartu.ee/et/holmi-arhitektuurivoistlus) iseloomustatakse piirkonda nii:
 
@@ -54,7 +54,7 @@ _Linn 21 227 m², riik 4813 m², era 19 023 m²_
 <figcaption>Turusilla juures on mänguruumi 42 696 m² jagu ja linnamaale mahub 3x kultuurikeskuse jaoks vajalikku pinda</figcaption>
 </figure>
 
-Siin on 21 227 m² linna maad, 4813 m² riigi maad, 7407 m² üldkasutatavat eramaad, piirkonnas on plaanitud olulised muutused, saab kombineerida nihutamisel olevat avaturgu, sadamateatrit, sadamat jt asutusi, ala paikeb Annelinna suunalise kergliikluse tuiksoonel ja bussijaama vahetus läheduses. Piirkonnas valdab praegu asfalt ja parklapinna hoonestamisel pole vaja loobuda haljastusest.
+Siin on 21 227 m² linna maad, 4813 m² riigi maad, 7407 m² üldkasutatavat eramaad, piirkonnas on plaanitud olulised muutused, saab kombineerida avaturgu, sadamateatrit, sadamat ennast jt asutusi, ala paikeb Annelinna suunalise kergliikluse tuiksoonel ja bussijaama vahetus läheduses. Piirkonnas valdab praegu asfalt ja parklapinna hoonestamisel pole vaja loobuda haljastusest.
 
 Linnal on plaanis siia rajada peamiselt elamuid ja ärihooneid, kuid [Sadama kvartali arhitektuurikonkursi järgi](https://www.tartu.ee/et/sadama-kvartali-planeeringuvoistlus) ka teatrihoonet:
 
@@ -70,7 +70,7 @@ _Linn 5475 m², riik 345 m², era 351 m²_
 <figcaption>Magistri tn jääb plaanitud täismahu jaoks pisut kitsaks</figcaption>
 </figure>
 
-Kogupinda on umbes 6927 m², üks õnnestunud konkurss, mis linna eksimuste tõttu ehituseni ei jõudnud. Alale rakenduvad muinsuskaitse poolt ettenähtud piirangud, kuid varasemalt eelistatud lahendusena on asukohal kindlasti perspektiivi. Asutuste ühendamisel tuleks ruumilahendused niikuinii ümber mõtelda, mistõttu sõltub palju asutuste ühisest tulevikunägemusest.
+Kogupinda on umbes 6927 m², üks õnnestunud konkurss, mis linna eksimuste tõttu [ehituseni ei jõudnud](https://www.err.ee/365362/tartu-maksab-arhitektidele-hoone-eest-mida-ei-ehitatagi). Alale rakenduvad muinsuskaitse poolt ettenähtud piirangud, kuid varasemalt eelistatud lahendusena on asukohal kindlasti perspektiivi. Asutuste ühendamisel tuleb ruumilahendused ümber mõtelda, mistõttu sõltuvad võimalused asutuste ühisest tulevikunägemusest.
 
 Siiski on sellel asukohal ilmselt kõige rohkem ehituslikke piiranguid ja [arhitektuurikonkursi võidutöös](http://www.arhliit.ee/arhitektuurivoistlused/tartu-raamatukogu-ja-kunstimuuseumi-konkurssunstim/) kirjeldatakse väljakutseid nii:
 
