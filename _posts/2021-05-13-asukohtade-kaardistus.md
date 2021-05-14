@@ -56,7 +56,7 @@ _Linn 21 227 m², riik 4813 m², era 19 023 m²_
 
 Siin on 21 227 m² linna maad, 4813 m² riigi maad, 7407 m² üldkasutatavat eramaad, piirkonnas on plaanitud olulised muutused, saab kombineerida nihutamisel olevat avaturgu, sadamateatrit, sadamat jt asutusi, ala paikeb Annelinna suunalise kergliikluse tuiksoonel ja bussijaama vahetus läheduses. Piirkonnas valdab praegu asfalt ja parklapinna hoonestamisel pole vaja loobuda haljastusest.
 
-Praegu on linnal plaanis rajada peamiselt elamuid ja ärihooneid, kuid [Sadama kvartali arhitektuurikonkursi järgi](https://www.tartu.ee/et/sadama-kvartali-planeeringuvoistlus) ka teatrihoonet:
+Linnal on plaanis siia rajada peamiselt elamuid ja ärihooneid, kuid [Sadama kvartali arhitektuurikonkursi järgi](https://www.tartu.ee/et/sadama-kvartali-planeeringuvoistlus) ka teatrihoonet:
 
 Samas on alal just tänu eelmainitule suur potentsiaal: see on kergliikluse transiitkoridorina aktiivselt kasutatav; turg on oluline tõmbekeskus ja teater toob kvartalisse ka õhtuseid külastajaid. Kallastrajale pööratuna paneb teatrihoone funktsioon märkama jõge ja vaadet sellele kui väärtuslikku ruumielementi. Võistlusala iseloomustab mitmekülgselt märksõna LAVA – oma asukoha ja funktsioonide tõttu on piirkond hästi vaadeldav. Seestpoolt tähistavad lava avaturg ja teater, aga ka jõe kaldad, mis pakuvad vaateid väljapoole Sadama kvartalit. Võistlusala on ka Ülejõelt väga hästi vaadeldav, mistõttu on oluline tekkiva hoonestuse kesklinlik ja atraktiivne karakter.
 {: .notice--info}
