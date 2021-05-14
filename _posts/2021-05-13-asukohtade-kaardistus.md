@@ -88,7 +88,7 @@ _Linn 21 539 m²_
 <figcaption>Pargipind on 21 333 m² ja üldplaneeringu järgi on lubatud hoonestada 8840 m², kogu ala kuulub linnale ja kõik oleks lihtne — kui ainult parki ees ei oleks</figcaption>
 </figure>
 
-Pargi Vabaduse puiestee poolse osa hoonestamine vastavalt üldplaneeringule tähendab hinnanguliselt poolest pargist loobumist ja rohevõrgustiku olulist katkestamist. Linn on asunud mõtlema hoone alternatiivsetele asenditele pargis ja laiemalt, kuid Kaubamaja mõõdus hoone paigutamine parki tähendab igal juhul Keskpargi kui südalinna ainsa suurema pargiala kui universaalse rohepuhvri kadumist. Linna plaanid kultuurikesuse rajamisel on läbimõtlemata ja lubadused korvata loodusala kadumist teiste rohealade väärindamise või kliimapositiivse hoone ehitamisega [ei kannata kriitikat](/faq/).
+Pargi Vabaduse puiestee poolse osa hoonestamine vastavalt üldplaneeringule tähendab hinnanguliselt poolest pargist loobumist ja rohevõrgustiku olulist katkestamist. Linn on asunud mõtlema hoone alternatiivsetele asenditele pargis ja laiemalt, kuid Kaubamaja mõõdus hoone paigutamine parki tähendab igal juhul Keskpargi kui südalinna ainsa suurema pargiala kui universaalse rohepuhvri kadumist. Linna plaanid kultuurikeskuse rajamisel on läbimõtlemata ja lubadused korvata loodusala kadumist teiste rohealade väärindamise või kliimapositiivse hoone ehitamisega [ei kannata kriitikat](/faq/).
 
 Linn ise kirjeldab [riigikogule esitatud rahataotluses](https://www.tartu.ee/et/sudalinna-kultuurikeskus) Keskpargi hoonestamise perspektiivi nii:
 
