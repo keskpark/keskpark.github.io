@@ -58,7 +58,7 @@ Siin on 21 227 m² linna maad, 4813 m² riigi maad, 7407 m² üldkasutatavat
 
 Linnal on plaanis siia rajada peamiselt elamuid ja ärihooneid, kuid [Sadama kvartali arhitektuurikonkursi järgi](https://www.tartu.ee/et/sadama-kvartali-planeeringuvoistlus) ka teatrihoonet:
 
-Samas on alal just tänu eelmainitule suur potentsiaal: see on kergliikluse transiitkoridorina aktiivselt kasutatav; turg on oluline tõmbekeskus ja teater toob kvartalisse ka õhtuseid külastajaid. Kallastrajale pööratuna paneb teatrihoone funktsioon märkama jõge ja vaadet sellele kui väärtuslikku ruumielementi. Võistlusala iseloomustab mitmekülgselt märksõna LAVA – oma asukoha ja funktsioonide tõttu on piirkond hästi vaadeldav. Seestpoolt tähistavad lava avaturg ja teater, aga ka jõe kaldad, mis pakuvad vaateid väljapoole Sadama kvartalit. Võistlusala on ka Ülejõelt väga hästi vaadeldav, mistõttu on oluline tekkiva hoonestuse kesklinlik ja atraktiivne karakter.
+Samas on alal just tänu eelmainitule suur potentsiaal: see on kergliikluse transiitkoridorina aktiivselt kasutatav; turg on oluline tõmbekeskus ja teater toob kvartalisse ka õhtuseid külastajaid. Kallasrajale pööratuna paneb teatrihoone funktsioon märkama jõge ja vaadet sellele kui väärtuslikku ruumielementi. Võistlusala iseloomustab mitmekülgselt märksõna LAVA – oma asukoha ja funktsioonide tõttu on piirkond hästi vaadeldav. Seestpoolt tähistavad lava avaturg ja teater, aga ka jõe kaldad, mis pakuvad vaateid väljapoole Sadama kvartalit. Võistlusala on ka Ülejõelt väga hästi vaadeldav, mistõttu on oluline tekkiva hoonestuse kesklinlik ja atraktiivne karakter.
 {: .notice--info}
 
 ## Magistri parkla juurdeehitus, linna varasem plaan
@@ -70,7 +70,7 @@ _Linn 5475 m², riik 345 m², era 351 m²_
 <figcaption>Magistri tn jääb plaanitud täismahu jaoks pisut kitsaks</figcaption>
 </figure>
 
-Kogupinda on umbes 6927 m², üks õnnestunud konkurss, mis linna eksimuste tõttu [ehituseni ei jõudnud](https://www.err.ee/365362/tartu-maksab-arhitektidele-hoone-eest-mida-ei-ehitatagi). Alale rakenduvad muinsuskaitse poolt ettenähtud piirangud, kuid varasemalt eelistatud lahendusena on asukohal kindlasti perspektiivi. Asutuste ühendamisel tuleb ruumilahendused ümber mõtelda, mistõttu sõltuvad võimalused asutuste ühisest tulevikunägemusest.
+Kogupinda on umbes 6927 m², üks õnnestunud konkurss, mis linna eksimuste tõttu [ehituseni ei jõudnud](https://www.err.ee/365362/tartu-maksab-arhitektidele-hoone-eest-mida-ei-ehitatagi). Alale rakenduvad muinsuskaitse poolt ettenähtud piirangud, kuid varasemalt eelistatud lahendusena on asukohal kindlasti perspektiivi. Asutuste ühendamisel tuleb ruumilahendused ümber mõtelda, mistõttu sõltuvad võimalused suuresti asutuste ühisest tulevikunägemusest.
 
 Siiski on sellel asukohal ilmselt kõige rohkem ehituslikke piiranguid ja [arhitektuurikonkursi võidutöös](http://www.arhliit.ee/arhitektuurivoistlused/tartu-raamatukogu-ja-kunstimuuseumi-konkurssunstim/) kirjeldatakse väljakutseid nii:
 
@@ -88,7 +88,7 @@ _Linn 21 539 m²_
 <figcaption>Pargipind on 21 333 m² ja üldplaneeringu järgi on lubatud hoonestada 8840 m², kogu ala kuulub linnale ja kõik oleks lihtne — kui ainult parki ees ei oleks</figcaption>
 </figure>
 
-Pargi Vabaduse puiestee poolse osa hoonestamine vastavalt üldplaneeringule tähendab hinnanguliselt poolest pargist loobumist ja rohevõrgustiku olulist katkestamist. Linn on asunud mõtlema hoone alternatiivsetele asenditele pargis ja laiemalt, kuid Kaubamaja mõõdus hoone paigutamine parki tähendab igal juhul Keskpargi kui südalinna ainsa suurema pargiala ja universaalse rohepuhvri kadumist. Linna plaanid kultuurikeskuse rajamisel on läbimõtlemata ja lubadused korvata loodusala kadumist teiste rohealade väärindamise või kliimapositiivse hoone ehitamisega [ei kannata kriitikat](/faq/).
+Pargi Vabaduse puiestee poolse osa hoonestamine vastavalt üldplaneeringule tähendab hinnanguliselt poolest pargist loobumist ja rohevõrgustiku olulist katkestamist. Linn on asunud mõtlema hoone alternatiivsetele asenditele pargis ja laiemalt, kuid Kaubamaja mõõdus hoone paigutamine parki tähendab igal juhul Keskpargi kui südalinna ainsa suuurema tervikliku pargiala ja universaalse rohepuhvri kadumist. Linna plaanid kultuurikeskuse rajamisel on läbimõtlemata ja lubadused korvata loodusala kadumist teiste rohealade väärindamise või kliimapositiivse hoone ehitamisega [ei kannata kriitikat](/faq/).
 
 Linn ise kirjeldab [riigikogule esitatud rahataotluses](https://www.tartu.ee/et/sudalinna-kultuurikeskus) Keskpargi hoonestamise perspektiivi nii:
 
