@@ -13,4 +13,4 @@ Kaebasime halduskohtu otsuse edasi ringkonnakohtusse, mis otsustas 1.04.2022, et
 
 See on meie esimene võit kohtuteel, kuid nüüd jätkub Keskpargi kaitsmine menetlusega halduskohtus. Selleks vajame juriidilist nõustamist ja saame seda endale lubada, kui annetate kaebuse esitanud MTÜ Päästame Tartu Keskpargi arvele `EE547700771007068552`.
 
-Ühingu põhieesmärk on "tagada Tartu Keskpargi säilimine tervikliku pargi ja avalikult kasutatava rohealana ning esindada selleks linnaelanikke nende ühiste huvide kaitsel". Annetusi kasutame rangelt selleks otstarbeks.
+Ühingu põhieesmärk on "tagada Tartu Keskpargi säilimine tervikliku pargi ja avalikult kasutatava rohealana ning esindada selleks linnaelanikke nende ühiste huvide kaitsel". Annetusi kasutame rangelt sihtotstarbeliselt.
