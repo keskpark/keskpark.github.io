@@ -104,9 +104,12 @@ author:
   location         : # "Tartu"
   email            : # keskpark@infoaed.ee
   links:
-    - label: "Kirjuta meile!"
+    - label: "Meie postkast"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:keskpark@infoaed.ee"
+    - label: "Tee annetus!"
+      icon: "fas fa-fw fa-piggy-bank"
+      url: "/j3tkub-halduskohtus/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -118,7 +121,7 @@ author:
       url: "https://www.facebook.com/groups/516548656373063"
     - label: "GitHubi repo"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/keskpark/keskpark.github.io"
+      #url: "https://github.com/keskpark/keskpark.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -132,6 +135,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+    - label: "Annetamine"
+      icon: "fas fa-fw fa-piggy-bank"
+      url: "/j3tkub-halduskohtus/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/keskpark
