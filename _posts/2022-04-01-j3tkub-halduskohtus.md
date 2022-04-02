@@ -3,8 +3,8 @@ title: "Võitlus pargi pärast jätkub halduskohtus ja sina saad aidata!"
 slug: j3tkub-halduskohtus
 image: "/assets/images/matteus_leevikesega.jpg"
 last_modified_at: 2022-04-01
-excerpt: "Linn palkas advokaadibüroo, et takistada tähtaegadega trikitades Keskpargi hoonestamise vaidlustamist kohtus. See kukkus läbi, aga suurem võitlus on veel ees."
-tagline: "Linn palkas advokaadibüroo tõestama, et meil pole õigust Keskpargi hoonestamist kohtus vaidlustada. Kuigi see kukkus ringkonnakohtus läbi, on suuremad võitlused alles ees."
+excerpt: "Linn palkas advokaadibüroo, et takistada tähtaegadega trikitades Keskpargi hoonestamise vaidlustamist kohtus. See kukkus läbi, aga suuremad võitlused on alles ees."
+tagline: "Linn palkas advokaadibüroo tõestama, et meil pole õigust Keskpargi hoonestamist kohtus vaidlustada. See plaan kukkus ringkonnakohtus läbi, on suuremad võitlused alles ees."
 header:
     og_image: /assets/images/matteus_leevikesega.jpg
     overlay_image: /assets/images/matteus_leevikesega.jpg
