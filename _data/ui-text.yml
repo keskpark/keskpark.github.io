@@ -1932,7 +1932,7 @@ et: &DEFAULT_et
   comments_title             : "Kommentaarid"
   more_label                 : "Edasi"
   related_label              : "Vaata ka"
-  follow_label               : "Jälgi:"
+  follow_label               : "Kanalid:"
   feed_label                 : "Uudisvoog"
   powered_by                 : "Mootor on"
   website_label              : "Veebileht"
