@@ -13,7 +13,7 @@ header:
     caption: "CC BY-SA [Märt Põder](https://commons.wikimedia.org/wiki/File:Matteuse_purskkaev_k%C3%BCmbleva_leevikesega.jpg%20)"
 ---
 
-_Linna esindanud advokaadibüroo püüdis kohtule tõestada, et algatust Päästame Tartu Keskpargi polnud üldplaneeringu arutelude ajal olemas ja seetõttu polnud meil põhjust oodata linna ametlikku teavitust üldplaneeringu kehtestamisest. Rinkonnakohus lükkas selle juriidilise manipulatsiooni tagasi, kuid edasised arutelud halduskohtus ei kujune kindlasti vähem keerukaks._
+_Linna esindanud advokaadibüroo püüdis kohtule tõestada, et algatust Päästame Tartu Keskpargi polnud üldplaneeringu arutelude ajal olemas ja seetõttu polnud meil põhjust oodata linna ametlikku teavitust üldplaneeringu kehtestamisest. Ringkonnakohus lükkas selle juriidilise manipulatsiooni tagasi, kuid edasised arutelud halduskohtus ei kujune kindlasti vähem keerukaks._
 
 Esitasime 18. novembril 2021 Tartu halduskohtule kaebuse üldplaneeringu tühistamiseks Keskpargi hoonestamise osas, mida kohus keeldus pärast linna ärakuulamist menetlusse võtmast. Linna esindanud advokaatide seisukoht oli, et esitasime kaebuse pärast tähtaja möödumist. Põhjendati seda sellega, et MTÜ Päästame Tartu Keskpargi registreeriti kohturegistris vahetult enne kaebuse esitamist ja seega ei osalenud üldplaneeringu protsessis mitte meie algatuse liikmed või aktiiv, vaid hoopis keegi teine.
 
