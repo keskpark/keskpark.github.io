@@ -3,7 +3,7 @@ layout: single
 title: "Isikuandmete töötlemise põhimõtted"
 permalink: /privacy/
 author_profile: true
-last_modified_at: 2021-11-16
+last_modified_at: 2021-04-03
 header:
     og_image: /assets/images/kepik6nd.jpg
     overlay_image: /assets/images/kepik6nd.jpg
@@ -59,5 +59,3 @@ header:
 14. Käesolevad andmekaitsetingimused on koostatud kooskõlas Euroopa Parlamendi ja nõukogu määrusega (EL) nr 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46 / EÜ kehtetuks tunnistamise kohta / EÜ (isikuandmete kaitse üldmäärus), Eesti Vabariigi isikuandmete kaitse seadusega ning Eesti Vabariigi ja Euroopa Liidu õigusaktidega.
 
 15. Andmetöötlejal on õigus andmekaitsetingimusi osaliselt või täielikult muuta, teavitades andmesubjekte muudatustest kodulehe [keskpark.infoaed.ee](/) kaudu.
-
-_Põhimõtteid uuendati viimati 3. aprillil 2022._
