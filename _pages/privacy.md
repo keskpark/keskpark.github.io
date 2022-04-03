@@ -53,11 +53,11 @@ header:
     * Andmesubjektil on õigus saada informatsiooni tema isikuandmete töötlemise kohta;
     * Andmesubjektil on õigus täiendada või parandada ebatäpseid andmeid;
     * Kui andmetöötleja töötleb andmesubjekti isikuandmeid andmesubjekti nõusoleku alusel, siis on andmesubjektil õigus igal ajal nõusolek tagasi võtta;
-    * Andmesubjekt saab õiguste teostamiseks pöörduda ühigu juhatuse poole aadressil keskpark@infoaed.ee;
+    * Andmesubjekt saab õiguste teostamiseks pöörduda ühnigu juhatuse poole aadressil [keskpark@infoaed.ee](mailto:keskpark@infoaed.ee);
     * Andmesubjektil on oma õiguste kaitseks võimalik esitada kaebus Andmekaitse Inspektsioonile.
     
 14. Käesolevad andmekaitsetingimused on koostatud kooskõlas Euroopa Parlamendi ja nõukogu määrusega (EL) nr 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ning direktiivi 95/46 / EÜ kehtetuks tunnistamise kohta / EÜ (isikuandmete kaitse üldmäärus), Eesti Vabariigi isikuandmete kaitse seadusega ning Eesti Vabariigi ja Euroopa Liidu õigusaktidega.
 
-15. Andmetöötlejal on õigus andmekaitsetingimusi osaliselt või täielikult muuta, teavitades andmesubjekte muudatustest kodulehe keskpark.infoaed.ee kaudu.
+15. Andmetöötlejal on õigus andmekaitsetingimusi osaliselt või täielikult muuta, teavitades andmesubjekte muudatustest kodulehe [keskpark.infoaed.ee](/) kaudu.
 
 _Põhimõtteid uuendati viimati 3. aprillil 2022._
