@@ -16,7 +16,7 @@ Petitsiooni ümber koondus kohe hulk toetajaid ning loodi [Facebooki kinnine gru
 
 ## Mittetulundusühingu asutamine
 
-Tegutsesime kuni Tartu linna üldplaneeringu kehtestamiseni 7. oktoobril 2021 seltsinguna, korraldades pargikaitsjate omavahelist suhtlust, arutelusid, pikette, meeleavaldusi ja esitades ettepanekuid üldplaneerigusse, kuid üldplaneeringu vaidlustamiseks Tartu halduskohtus formeerisime seltsingu mittetulundusühinguks. Päästame Tartu Keskprgi asutamiskoosolek toimus 16. novembril 2022, selle raames kinnitati ühingu [põhikiri](/statutes/), ühing registeeriti kohturegistris 18. novembril.
+Tegutsesime kuni Tartu linna üldplaneeringu kehtestamiseni 7. oktoobril 2021 seltsinguna, korraldades pargikaitsjate omavahelist suhtlust, arutelusid, pikette, meeleavaldusi ja esitades ettepanekuid üldplaneerigusse, kuid üldplaneeringu vaidlustamiseks Tartu halduskohtus formeerisime seltsingu mittetulundusühinguks. Päästame Tartu Keskpargi asutamiskoosolek toimus 16. novembril 2022, selle raames kinnitati ühingu [põhikiri](/statutes/), ühing registeeriti kohturegistris 18. novembril.
 
 Ühingu asutamisega läksid setsingu kanalid nagu see veebileht siin, aga ka sotsiaalmeedia kanalid jmt üle MTÜ Päästame Tartu Keskpargi käsutusse. Ühing võtab põhikirjalisteks tegevusteks vastu annetusi pangakontole `EE547700771007068552` ja meie isikuandmete töötlemise põhimõtted leiab [siit](/privacy/). Ühingu juhatuse liikmed on Anna Aljanaki ja Janek Maat, juhatuse e-posti aadress on [keskpark@infoaed.ee](mailto:keskpark@infoaed.ee).
 
