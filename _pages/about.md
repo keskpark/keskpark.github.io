@@ -10,7 +10,7 @@ header:
     caption: "CC BY-SA [Oop](https://commons.wikimedia.org/wiki/File:Kepik%C3%B5ndijad_Tartu_linna_tervisep%C3%A4eval_maskoti_juhtimisel_Keskpargis,_22._september_2012.jpg%20)"
 ---
 
-Algatus "Päästame Tartu Keskpargi!" sai alguse 12. märtsil informaatikaõppejõud Anna Aljanaki [koostatud petitsioonist](https://www.change.org/p/tartu-linnapea-peatada-tartu-kesklinna-pargi-maharaiumist-selleks-et-süku-ehitada), mis nõudis Tartu linna Keskpargi maharaiumise peatamist. 
+Algatus "Päästame Tartu Keskpargi!" sai alguse 12. märtsil 2021 informaatikaõppejõud Anna Aljanaki [koostatud petitsioonist](https://www.change.org/p/tartu-linnapea-peatada-tartu-kesklinna-pargi-maharaiumist-selleks-et-süku-ehitada), mis nõudis Tartu linna Keskpargi maharaiumise peatamist. 
 
 Petitsiooni ümber koondus kohe hulk toetajaid ning loodi [Facebooki kinnine grupp](https://www.facebook.com/groups/1056327784855045), millega liitus üle 100 liikme, nende seas arhitekte ja projekteerijaid, looduskaitsjaid ja maastikuarhitekte, eri valdkondade õppejõude, üliõpilasi ja lihtsalt aktiivseid linnaelanikke. Nüüdseks oleme kolinud oma arutelud ja tegevused avalikku gruppi ["Päästame Tartu keskpargi!"](https://www.facebook.com/groups/516548656373063), millega kutsume kõiki huvilisi liituma!
 
