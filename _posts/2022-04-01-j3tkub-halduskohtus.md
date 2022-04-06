@@ -25,7 +25,7 @@ Linna unistus kriitika puudumisest Keskpargi hoonestamisele ei osutunud niisiis 
 
 See on meie esimene võit kohtuteel, kuid sisuline kohtuvaidlus Keskpargi hoonestamise üle ootab alles ees. Seejuures on linn palganud meie endi maksuraha eest meiega vaidlemiseks maineka advokaadibüroo ja kuigi meie esimene samm oli edukas, vajame edaspidi kindlasti juriidilist nõu.
 
-> Saame endale õigusnõu lubada, kui annetate kaebuse esitanud MTÜ Päästame Tartu Keskpargi arvele `EE547700771007068552` endale jõukohase summa.
+> Saame endale õigusnõu lubada, kui annetate kaebuse esitanud MTÜ Päästame Tartu Keskpargi arvele `EE547700771007068552` mistahes endale jõukohase summa.
 
 Spetsiaalselt Keskpargi päästmiseks asutatud mittetulundusliku ühingu ainuke ja peamine eesmärk on "[tagada Tartu Keskpargi säilimine tervikliku pargi ja avalikult kasutatava rohealana ning esindada selleks linnaelanikke nende ühiste huvide kaitsel](/statutes/)". Annetusi kasutame rangelt sihtotstarbeliselt.
 
