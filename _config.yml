@@ -109,7 +109,7 @@ author:
       url: "mailto:keskpark@infoaed.ee"
     - label: "Tee annetus!"
       icon: "fas fa-fw fa-piggy-bank"
-      url: "/j3tkub-halduskohtus/"
+      url: "/j3tkub-halduskohtus/#anneta-kohtuprotsessi-toetuseks"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "Annetamine"
       icon: "fas fa-fw fa-piggy-bank"
-      url: "/j3tkub-halduskohtus/"
+      url: "/j3tkub-halduskohtus/#anneta-kohtuprotsessi-toetuseks"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/keskpark
