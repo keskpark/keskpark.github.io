@@ -28,7 +28,7 @@ Seireprojekti 2020. aasta ülevaate järgi on Tartu linnakeskuses Ida-Euroopa p�
 
 Euroopa võrdlevas statistikas liigitatakse Tartu juba nende linnade kategooriasse, kus roheluse kogemiseks tuleb sõita linnapiiri taha. Kui linnalooduse hõivamist jätkatakse senise tempoga – keskmiselt üks protsent aastas –, on Tartu juba lähitulevikus tuuline ja tolmune betoonlinn. Elurikkuse kureerimine vaid eraldatud lapikestel muudab varem omavahel seotud rohealad kunstlikeks rohekõrbeteks, mis ei aita leevendada üha sagenevate äärmuslike ilmastikutingimuste tekitatavaid vaevusi ega taga enam ka tartlastele harjumuspärast elamisväärset linnakeskkonda.
 
-# Ehitussurve pantvangis
+## Ehitussurve pantvangis
 
 Euroopa 2023. aasta rohepealinna tiitli pälvinud Tallinn tegi rohealade teemaplaneeringu ära aastail 2006–2008. Tartus on samaväärset planeeringut lubatud 1999. aastast, viimati troonis see Reformierakonna, Sotsiaaldemokraatliku Erakonna ja Keskerakonna 2013–2017 koalitsioonilepingus: "Koostame Tartu linna parkide, puhkealade ja teiste rohealade teemaplaneeringu."
 
