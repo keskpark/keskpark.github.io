@@ -7,7 +7,7 @@ classes: wide
 author: Märt Põder
 last_modified_at: 2021-11-05
 excerpt: "Kui linnalooduse hõivamist jätkatakse senise tempoga, on Tartu juba lähitulevikus tuuline ja tolmune betoonlinn."
-tagline: "Rohealade teemaplaneeringu vältimine 20 aasta vältel ja selle jätkuv puudumine koalitsioonilepingust ei jäta erilist võimalust rõõmustada."
+tagline: "Rohealade teemaplaneeringu vältimine 20 aasta vältel ja selle jätkuv puudumine koalitsioonilepingust ei jäta erilist võimalust rõõmustada elukeskkonna tuleviku üle."
 header:
     og_image: /assets/images/elud.jpg
     overlay_image: /assets/images/elud.jpg
