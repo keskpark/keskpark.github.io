@@ -1,7 +1,7 @@
 ---
 title: "Tark linn parki ei ehita"
 slug: eludega-ei-m3ngita
-image: "/assets/images/elud.jpg"
+image: "/assets/images/ei-ehitata.jpg"
 author_profile: true
 classes: wide
 author: Märt Põder
