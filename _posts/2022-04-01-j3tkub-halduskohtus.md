@@ -1,16 +1,16 @@
 ---
-title: "Võitlus pargi pärast jätkub halduskohtus ja sina saad aidata!"
+title: "Võitlus pargi pärast jätkub kohtus ja sina saad aidata!"
 slug: j3tkub-halduskohtus
-image: "/assets/images/matteus_leevikesega.jpg"
+image: "/assets/images/ei-ehitata-suur.jpg"
 last_modified_at: 2022-04-01
 excerpt: "Linn palkas advokaadibüroo, et takistada tähtaegadega trikitades Keskpargi hoonestamise vaidlustamist kohtus. Plaan kukkus läbi, kuid see on alles algus."
 tagline: "Linn palkas advokaadibüroo tõestama, et meil pole õigust Keskpargi hoonestamist kohtus vaidlustada. Kuigi see plaan kukkus ringkonnakohtus läbi, on suuremad võitlused alles ees."
 header:
-    og_image: /assets/images/matteus_leevikesega.jpg
-    overlay_image: /assets/images/matteus_leevikesega.jpg
+    og_image: /assets/images/ei-ehitata.jpg
+    overlay_image: /assets/images/ei-ehitata.jpg
     overlay_color: "#000"
     overlay_filter: "0.5"
-    caption: "CC BY-SA [Märt Põder](https://commons.wikimedia.org/wiki/File:Matteuse_purskkaev_k%C3%BCmbleva_leevikesega.jpg%20)"
+    caption: "CC BY-SA [Märt Põder](https://keskpark.infoaed.ee/assets/images/ei-ehitata-suur.jpg)"
 ---
 
 _Linna esindanud advokaadibüroo püüdis kohtule tõestada, et algatust Päästame Tartu Keskpargi polnud üldplaneeringu arutelude ajal olemas ja seetõttu polnud meil põhjust oodata linna ametlikku teavitust üldplaneeringu kehtestamisest. Ringkonnakohus lükkas selle juriidilise manipulatsiooni tagasi, kuid edasised arutelud halduskohtus ei kujune kindlasti vähem keerukaks._

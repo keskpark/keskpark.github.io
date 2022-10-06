@@ -1,7 +1,7 @@
 ---
 title: "Tark linn parki ei ehita"
 slug: eludega-ei-m3ngita
-image: "/assets/images/ei-ehitata.jpg"
+image: "/assets/images/matteus_leevikesega.jpg"
 author_profile: true
 classes: wide
 author: Märt Põder
@@ -9,11 +9,11 @@ last_modified_at: 2021-05-07
 excerpt: "Pole isegi mitte kaalutud parki säästvaid asukohti ja keskkonnasäästu põhjendatakse linna tihendamise teooria väärkasutusega."
 tagline: "Loodusaladest saadavat tervisekasu mõõdetakse ärahoitud enneaegsete surmade, haigestumuse ja haiglaraviga ning haigekassa tegemata kulutustega."
 header:
-    og_image: /assets/images/elud.jpg
-    overlay_image: /assets/images/elud.jpg
+    og_image: /assets/images/matteus_leevikesega.jpg
+    overlay_image: /assets/images/matteus_leevikesega.jpg
     overlay_color: "#000"
     overlay_filter: "0.5"
-    caption: "CC BY-SA [Märt Põder](http://commons.wikimedia.org/wiki/File:Hoia_vahet,_eludega_ei_m%C3%A4ngita.jpg%20)"
+    caption: "CC BY-SA [Märt Põder](https://commons.wikimedia.org/wiki/File:Matteuse_purskkaev_k%C3%BCmbleva_leevikesega.jpg%20)"
 ---
 
 _Teame tegelikult algusest peale, et parki ehitamine on halb plaan. Pole olnud hetke, mil keegi seda linnavõimule ei meenutaks. Olgu need 2716 mõne aasta tagust allkirja kesklinna parkide hoonestamise vastu või 5183 allkirja Keskpargi kaitseks nüüd -- kuid soov ehitada on nii tugev, et suleb kõrvad argumentide ees._
