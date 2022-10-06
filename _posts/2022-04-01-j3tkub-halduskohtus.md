@@ -1,5 +1,5 @@
 ---
-title: "Võitlus pargi pärast jätkub kohtus ja sina saad aidata!"
+title: "Võitlus pargi pärast jätkub kohtus"
 slug: j3tkub-halduskohtus
 image: "/assets/images/ei-ehitata-suur.jpg"
 last_modified_at: 2022-04-01
