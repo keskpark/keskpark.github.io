@@ -13,7 +13,7 @@ header:
     caption: "CC BY-SA [Märt Põder](https://keskpark.infoaed.ee/assets/images/sadamateater.jpg)"
 ---
 
-_Aasta pärast meie kaebust ja linnavõimu korduvaid katseid arutelust põigelda [kinnitas Riigikohus](https://www.riigikohus.ee/et/uudiste-arhiiv/riigikohus-ei-rahuldanud-tartu-linna-kaebust-suku-ehitust-puudutavas-vaidluses), et halduskohus peab üldplaneeringu puudujääke sisuliselt arutama. Teadsime algusest peale, et meil on õigus ja linnarahva toel paneme õiguse maksma ka Keskpargi küsimuses._
+_Aasta pärast meie kaebust ja linnavõimu korduvaid katseid arutelust põigelda [kinnitas lõpuks ka Riigikohus](https://www.riigikohus.ee/et/uudiste-arhiiv/riigikohus-ei-rahuldanud-tartu-linna-kaebust-suku-ehitust-puudutavas-vaidluses), et halduskohus peab üldplaneeringu puudujääke sisuliselt arutama. Teadsime algusest peale, et meil on õigus ja linnarahva toel paneme õiguse maksma ka Keskpargi küsimuses._
 
 Riigikohus otsustas, et meie kaebus polnud mitte ainult esitatud tähtaegselt, vaid rohkem kui kahenädalase varuga. Vaevalt tuli see üllatusena linnavõimule, kelle kogu tegevust kultuurikeskuse asukoha otsustamisel iseloomustabki [avalikkuse tahtlik eksitamine](/faq) ja [arutelu blokeerimine pahausksete juriidiliste võtetega](/j3tkub-halduskohtus). Loodame halduskohtu sisulistest aruteludest selgust, kas pole mitte samasugustel õiguslikel savijalgadel ka Keskpargi hoonestatava ala suurendamine aegunud keskkonnamõju hinnangu alusel.
 
