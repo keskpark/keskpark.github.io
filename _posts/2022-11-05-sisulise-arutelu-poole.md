@@ -3,8 +3,8 @@ title: "Ootame halduskohtust sisulist arutelu"
 slug: sisulise-arutelu-poole
 image: "/assets/images/sadamateater1200.jpg"
 last_modified_at: 2022-11-05
-excerpt: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu olid katsed põigelda arutelust pahatahtliku juriidika abil."
-tagline: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu olid katsed põigelda arutelust pahatahtliku juriidika abil."
+excerpt: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu olid linnavõimu katsed blokeerida arutelu pahatahtliku juriidika abil."
+tagline: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu olid linnavõimu katsed blokeerida arutelu pahatahtliku juriidika abil."
 header:
     og_image: /assets/images/sadamateater1200.jpg
     overlay_image: /assets/images/sadamateater1200.jpg
@@ -13,9 +13,9 @@ header:
     caption: "CC BY-SA [Märt Põder](https://keskpark.infoaed.ee/assets/images/sadamateater.jpg)"
 ---
 
-_Aasta pärast meie kaebust ja linnavõimu korduvaid katseid arutelust põigelda kinnitas Riigikohus, et [halduskohus peab üldplaneeringu puudujääke sisuliselt arutama](https://www.riigikohus.ee/et/uudiste-arhiiv/riigikohus-ei-rahuldanud-tartu-linna-kaebust-suku-ehitust-puudutavas-vaidluses). Teadsime algusest peale, et meil on õigus ja linnarahva toel paneme õiguse maksma ka Keskpargi küsimuses._
+_Aasta pärast meie kaebust ja linnavõimu korduvaid katseid arutelust põigelda [kinnitas Riigikohus](https://www.riigikohus.ee/et/uudiste-arhiiv/riigikohus-ei-rahuldanud-tartu-linna-kaebust-suku-ehitust-puudutavas-vaidluses), et halduskohus peab üldplaneeringu puudujääke sisuliselt arutama. Teadsime algusest peale, et meil on õigus ja linnarahva toel paneme õiguse maksma ka Keskpargi küsimuses._
 
-Riigikohus otsustas, et meie kaebus polnud mitte ainult esitatud tähtaegselt, vaid vähemalt kahenädalase varuga. Vaevalt tuli see tegelikult üllatusena linnavõimule, kelle kogu tegevust kultuurikeskuse asukoha otsustamisel iseloomustabki [arutelu blokeerimine pahatahtliku juriidikaga](j3tkub-halduskohtus) ja avalikkuse tahtlik eksitamine. Loodame halduskohtu sisulistest aruteludest selgust, kas pole mitte samasugustel õiguslikel savijalgadel ka Keskpargi hoonestatava ala suurendamine aegunud keskkonnamõju hinnangu alusel.
+Riigikohus otsustas, et meie kaebus polnud mitte ainult esitatud tähtaegselt, vaid vähemalt kahenädalase varuga. Vaevalt tuli see tegelikult üllatusena linnavõimule, kelle kogu tegevust kultuurikeskuse asukoha otsustamisel iseloomustabki [arutelu blokeerimine pahatahtliku juriidikaga](/j3tkub-halduskohtus) ja avalikkuse tahtlik eksitamine. Loodame halduskohtu sisulistest aruteludest selgust, kas pole mitte samasugustel õiguslikel savijalgadel ka Keskpargi hoonestatava ala suurendamine aegunud keskkonnamõju hinnangu alusel.
 
 ## Kultuurikeskust ei saa rajada valedele
 
@@ -37,6 +37,6 @@ See on meie esimene suurem võit kohtuteel, kuid sisuline kohtuvaidlus Keskpargi
 
 Spetsiaalselt Keskpargi päästmiseks asutatud mittetulundusliku ühingu ainuke ja peamine eesmärk on "[tagada Tartu Keskpargi säilimine tervikliku pargi ja avalikult kasutatava rohealana ning esindada selleks linnaelanikke nende ühiste huvide kaitsel](/statutes/)". Kasutame annetusi rangelt sihtotstarbeliselt.
 
-Toetame ettepanekuid kultuurikeskuse rajamiseks vähendatud mahus juba varem sobivaks hinnatud asukohta Magistri tänaval või volikogus nüüd üha sagedamini pakutud asukohta lammutamisele mineva Sadamateatri piirkonnas. Kultuurikeskusele [on südalinnas küllalt asukohti](asukohtade-kaardistus), mis ei sunni meid tooma ohvriks oma elukeskkonda ega tervet mõistust.
+Toetame ettepanekuid kultuurikeskuse rajamiseks vähendatud mahus juba varem sobivaks hinnatud asukohta Magistri tänaval või volikogus nüüd üha sagedamini pakutud asukohta lammutamisele mineva Sadamateatri piirkonnas. Kultuurikeskusele [on südalinnas küllalt asukohti](/asukohtade-kaardistus), mis ei sunni meid tooma ohvriks oma elukeskkonda ega tervet mõistust.
 
-Annetage meie kulude katteks, sest arutelu halduskohtus tõotab tulla väga tehniline ja Keskpargi saame lõpuks ikkagi päästa vaid üheskoos!
+[Annetage meie kulude katteks](#anneta-kohtuprotsessi-toetuseks), sest arutelu halduskohtus tõotab tulla väga tehniline ja Keskpargi saame lõpuks ikkagi päästa vaid üheskoos!
