@@ -37,6 +37,6 @@ See on meie esimene suurem võit kohtuteel, kuid sisuline kohtuvaidlus Keskpargi
 
 Spetsiaalselt Keskpargi päästmiseks asutatud mittetulundusliku ühingu ainuke ja peamine eesmärk on "[tagada Tartu Keskpargi säilimine tervikliku pargi ja avalikult kasutatava rohealana ning esindada selleks linnaelanikke nende ühiste huvide kaitsel](/statutes/)". Kasutame annetusi rangelt sihtotstarbeliselt.
 
-Toetame ettepanekuid kultuurikeskuse rajamiseks vähendatud mahus juba varem sobivaks hinnatud asukohta Magistri tänaval või volikogus nüüd üha sagedamini pakutud asukohta lammutamisele mineva Sadamateatri piirkonnas. Kultuurikeskusele [on südalinnas küllalt asukohti](/asukohtade-kaardistus), mis ei sunni meid tooma ohvriks oma elukeskkonda ega tervet mõistust.
+Toetame ettepanekuid kultuurikeskuse rajamiseks vähendatud mahus juba varem sobivaks hinnatud asukohta Magistri tänaval või volikogus nüüd [üha sagedamini pakutavat asukohta](https://www.eesti200.ee/news/et/intervjuu-kristina-kallasega-toost-tartu-linnavolikogus) lammutamisele mineva Sadamateatri piirkonnas. Kultuurikeskusele [on südalinnas küllalt asukohti](/asukohtade-kaardistus), mis ei sunni meid tooma ohvriks oma elukeskkonda ega tervet mõistust.
 
 [Annetage meie kulude katteks](#anneta-kohtuprotsessi-toetuseks), sest arutelu halduskohtus tõotab tulla väga tehniline ja Keskpargi saame lõpuks ikkagi päästa vaid üheskoos!
