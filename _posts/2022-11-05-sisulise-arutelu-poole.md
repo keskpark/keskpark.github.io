@@ -3,8 +3,8 @@ title: "Ootame halduskohtust sisulist arutelu"
 slug: sisulise-arutelu-poole
 image: "/assets/images/sadamateater1200.jpg"
 last_modified_at: 2022-11-05
-excerpt: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu on olnud ka linnavõimu korduvad katsed blokeerida arutelu pahatahtliku juriidika abil."
-tagline: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu on olnud ka linnavõimu korduvad katsed blokeerida arutelu pahatahtliku juriidika abil."
+excerpt: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu on olnud ka linnavõimu korduvad katsed blokeerida arutelu juriidiste võtetega."
+tagline: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu on olnud ka linnavõimu korduvad katsed blokeerida arutelu juriidiste võtetega."
 header:
     og_image: /assets/images/sadamateater1200.jpg
     overlay_image: /assets/images/sadamateater1200.jpg
@@ -15,7 +15,7 @@ header:
 
 _Aasta pärast meie kaebust ja linnavõimu korduvaid katseid arutelust põigelda [kinnitas Riigikohus](https://www.riigikohus.ee/et/uudiste-arhiiv/riigikohus-ei-rahuldanud-tartu-linna-kaebust-suku-ehitust-puudutavas-vaidluses), et halduskohus peab üldplaneeringu puudujääke sisuliselt arutama. Teadsime algusest peale, et meil on õigus ja linnarahva toel paneme õiguse maksma ka Keskpargi küsimuses._
 
-Riigikohus otsustas, et meie kaebus polnud mitte ainult esitatud tähtaegselt, vaid vähemalt kahenädalase varuga. Vaevalt tuli see tegelikult üllatusena linnavõimule, kelle kogu tegevust kultuurikeskuse asukoha otsustamisel iseloomustabki [avalikkuse tahtlik eksitamine](/faq) ja [arutelu blokeerimine pahatahtliku juriidikaga](/j3tkub-halduskohtus). Loodame halduskohtu sisulistest aruteludest selgust, kas pole mitte samasugustel õiguslikel savijalgadel ka Keskpargi hoonestatava ala suurendamine aegunud keskkonnamõju hinnangu alusel.
+Riigikohus otsustas, et meie kaebus polnud mitte ainult esitatud tähtaegselt, vaid rohkem kui kahenädalase varuga. Vaevalt tuli see tegelikult üllatusena linnavõimule, kelle kogu tegevust kultuurikeskuse asukoha otsustamisel iseloomustabki [avalikkuse tahtlik eksitamine](/faq) ja [arutelu blokeerimine pahausksete juriidiliste võtetega](/j3tkub-halduskohtus). Loodame halduskohtu sisulistest aruteludest selgust, kas pole mitte samasugustel õiguslikel savijalgadel ka Keskpargi hoonestatava ala suurendamine aegunud keskkonnamõju hinnangu alusel.
 
 ## Kultuurikeskust ei saa rajada valedele
 
