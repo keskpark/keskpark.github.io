@@ -3,8 +3,8 @@ title: "Ootame halduskohtust sisulist arutelu"
 slug: sisulise-arutelu-poole
 image: "/assets/images/sadamateater1200.jpg"
 last_modified_at: 2022-11-05
-excerpt: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu olid linnavõimu katsed blokeerida arutelu pahatahtliku juriidika abil."
-tagline: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu olid linnavõimu katsed blokeerida arutelu pahatahtliku juriidika abil."
+excerpt: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu on olnud ka linnavõimu katsed blokeerida arutelu pahatahtliku juriidika abil."
+tagline: "Keskpargi hoonestamise plaanid on savijalgadel samamoodi nagu on olnud ka linnavõimu katsed blokeerida arutelu pahatahtliku juriidika abil."
 header:
     og_image: /assets/images/sadamateater1200.jpg
     overlay_image: /assets/images/sadamateater1200.jpg
