@@ -25,9 +25,9 @@ Oma vigade ja maine parandamise tuhinas suurendati järgnenud üldplaneeringu ar
 
 Rohealade teemaplaneeringut nõuab tänapäeval ka [Euroopa Liidu elurikkuse strateegia](https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=CELEX:52020DC0380).
 
-Linnavõim on blokeerinud sisulist debatti neil teemadel nii linnavolikogus, avalikes aruteludes kui ka oma vastustes linnaelanike arupärimistele ja petitsioonidele. Riigikohtu otsus annab märku, et avalikkust eksitavad tõlgendused eri tähtaegadest, arengudokumentidest ja elukeskkonna nõuetest ei pruugi kehtida väljaspool linnavõimu enda soovmõtlemist. Sellele loodamegi saada kinnitust halduskohtust, mis nüüd juba aasta kestnud venitamise järel on kohustatud meie kaebust lõpuks sisuliselt arutama.
+Linnavõim on blokeerinud sisulist debatti neil teemadel nii linnavolikogus, avalikes aruteludes kui ka oma vastustes linnaelanike arupärimistele ja petitsioonidele. Riigikohtu otsus annab märku, et avalikkust eksitavad tõlgendused eri tähtaegadest, arengudokumentidest ja elukeskkonna nõuetest ei pruugi kehtida väljaspool linnavõimu enda soovmõtlemist.
 
-Me pole kohtuvõitlustes üksi, sest meiega sarnastel alustel vaidlustasid üldplaneeringu [Ujula tänava elanikud linna enda vanemjuristi eestvedamisel](https://tartu.postimees.ee/7406894/kaebus-pani-linna-kaaluma-ujula-tanava-pikenduse-vajalikkust). Ka selles vaidluses pole veel lahendusele jõutud.
+Sellele loodamegi saada kinnitust halduskohtust, mis nüüd juba aasta kestnud venitamise järel on kohustatud meie kaebust lõpuks sisuliselt arutama. Me pole kohtuvõitlustes üksi, sest meiega sarnastel alustel vaidlustasid üldplaneeringu [Ujula tänava elanikud linna enda vanemjuristi eestvedamisel](https://tartu.postimees.ee/7406894/kaebus-pani-linna-kaaluma-ujula-tanava-pikenduse-vajalikkust). Ka selles vaidluses pole veel lahendusele jõutud.
 
 ## Anneta kohtuprotsessi toetuseks!
 
