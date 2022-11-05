@@ -19,7 +19,7 @@ Riigikohus otsustas, et meie kaebus polnud mitte ainult esitatud tähtaegselt, v
 
 ## Kultuurikeskust ei saa rajada valedele
 
-Plaan taashoonestada Keskpark endise Kaubahoovi ulatuses oli vastuvõetav 20000ndate alguses, mil linnakeskus oli veel suuresti täis ehitamata. Linnavõim otsustas 2004. aastal neist plaanidest loobuda ja säilitada pargi täies mahus. Vanad plaanid ilmusid aga uuel ja nüüd juba pahaloomulisel kujul taas välja 2012. aastal, mil kukkus linnavõimu süül läbi arhitektuurikonkurss kultuurikeskuse rajamiseks Magistri tänavale.
+Plaan taashoonestada Keskpark endise Kaubahoovi ulatuses võis olla vastuvõetav 2000ndate alguses, mil linnakeskus oli veel suuresti täis ehitamata. Linnavõim otsustas 2004. aastal neist plaanidest loobuda ja säilitada pargi täies mahus. Vanad plaanid ilmusid aga uuel ja nüüd juba pahaloomulisel kujul taas välja 2012. aastal, mil kukkus linnavõimu süül läbi arhitektuurikonkurss kultuurikeskuse rajamiseks Magistri tänavale.
 
 Oma vigade ja maine parandamise tuhinas suurendati järgnenud üldplaneeringu aruteludes aga täiendava keskkonnamõju hinnanguta Keskpargi hoonestusala 50 protsendi peale, kuigi see oli vastuolus juba 2000ndatel kehtinud keskkonnanõuete ja avalikkusele antud lubadustega, kuid veelgi enam tänapäevaste nõuetega elukeskkonnale, mida väljendavad riigi ja linna enda eri arengudokumendid, sj möödunud aastal vastuvõetud kliimakava. Lisaks on linn [vältinud rohealade teemaplaneeringu koostamist](/tolmune-betoonlinn), mida on lubatud juba üle 20 aasta ja mis välistaks sellised kannapöörded.
 
